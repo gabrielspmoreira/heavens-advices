@@ -1,10 +1,8 @@
 package com.christianapps.heavensadv.activities;
 
 import java.util.ArrayList;
-import java.util.List;
 import java.util.StringTokenizer;
 
-import android.R;
 import android.app.ListActivity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -13,22 +11,21 @@ import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
-import android.widget.TextView;
-import android.widget.Toast;
 
 import com.christianapps.heavensadv.values.BibleVerse;
 import com.christianapps.heavensadv.values.Situation;
-import com.christianapps.heavensadv.*;
 
 public class SituationsActivity extends ListActivity {
-    /** Called when the activity is first created. */
+    
+	private ArrayList<Situation> situations = new ArrayList<Situation>();
+	
     @Override
     public void onCreate(Bundle savedInstanceState) {
           super.onCreate(savedInstanceState);
         
           processMenus();
 
-          setListAdapter(new ArrayAdapter(this, android.R.layout.simple_list_item_1, this.situations));
+          setListAdapter(new ArrayAdapter<Situation>(this, android.R.layout.simple_list_item_1, this.situations));
           	
 	  	  ListView lv = getListView();
 	  	  lv.setTextFilterEnabled(true);	  	  
@@ -47,8 +44,6 @@ public class SituationsActivity extends ListActivity {
 	  	  });
     }
     
-    private ArrayList<Situation> situations = new ArrayList<Situation>();
-    
     private void processMenus()
     {
     	String[] situations_array = getResources().getStringArray(com.christianapps.heavensadv.R.array.situations_array);
@@ -56,8 +51,7 @@ public class SituationsActivity extends ListActivity {
     	this.situations.clear();
     	for (int i=0; i<array_length; i++){
     		String fullText = situations_array[i];
-   		
-    		Situation situation = parseSituation(fullText);  
+			Situation situation = parseSituation(fullText);  
     		this.situations.add(situation);
     	}
     }

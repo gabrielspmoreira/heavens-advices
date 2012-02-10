@@ -58,8 +58,6 @@ public class BibleVersesActivity extends ListActivity {
 	  	    	alertDialog.show();
 	  	    }
 	  	  });
-	  	  
-	  	  
     }
     
     private View ViewDialogScreen(String strText) {

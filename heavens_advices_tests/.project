@@ -3,7 +3,7 @@
 	<name>heavens_advices_tests</name>
 	<comment></comment>
 	<projects>
-		<project>heavens_advices</project>
+		<project>HeavensAdvices</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

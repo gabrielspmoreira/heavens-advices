@@ -39,9 +39,6 @@ public class BibleVersesActivity extends ListActivity {
 	  	        int position, long id) {
 	  	    	
 	  	    	BibleVerse bibleVerse = bibleVerses.get((int)id);
-	  	      // When clicked, show a toast with the TextView text
-	  	    	/*Toast.makeText(getApplicationContext(), bibleVerse.getVerseId() + bibleVerse.getVerseText(),
-	  	          Toast.LENGTH_SHORT).show();*/ 
 	  	    	
 	  	    	AlertDialog alertDialog = new AlertDialog.Builder(BibleVersesActivity.this).create();
 	  	    	alertDialog.setTitle(bibleVerse.getVerseId());
@@ -54,13 +51,13 @@ public class BibleVersesActivity extends ListActivity {
 	                	return;
 	                    }
 	            });	  	    
-	  	    	alertDialog.setView(ViewDialogScreen(bibleVerse.getVerseText())); 
+	  	    	alertDialog.setView(GetDialogScreen(bibleVerse.getVerseText())); 
 	  	    	alertDialog.show();
 	  	    }
 	  	  });
     }
     
-    private View ViewDialogScreen(String strText) {
+    private View GetDialogScreen(String strText) {
         ScrollView scroll = new ScrollView(BibleVersesActivity.this);
         scroll.setLayoutParams(new LayoutParams(LayoutParams.FILL_PARENT, LayoutParams.FILL_PARENT));
         LinearLayout llay = new LinearLayout(BibleVersesActivity.this);

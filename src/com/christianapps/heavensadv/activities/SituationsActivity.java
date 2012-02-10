@@ -57,31 +57,13 @@ public class SituationsActivity extends ListActivity {
     }
     
     private Situation parseSituation(String text){
-    	
     	StringTokenizer tokenizer = new StringTokenizer(text, "|");  
-    	String id = tokenizer.nextToken();
-    	String name = tokenizer.nextToken();
-    	    	
-    	int array_id = getResources().getIdentifier(id.concat("_array"), "array", "com.christianapps.heavensadv");
+    	String id = tokenizer.nextToken();    	
+    	int array_id = getResources().getIdentifier(id.concat("_array"), "array", "com.christianapps.heavensadv");    	
     	String[] verses_array = getResources().getStringArray(array_id);
-    	
-    	int array_lenght = verses_array.length;
-    	ArrayList<BibleVerse> bibleVerses = new ArrayList<BibleVerse>();
-    	for (int i=0; i< array_lenght; i++){
-    		String fullText = verses_array[i];
-    		BibleVerse verse = parseBibleVerse(fullText);
-    		bibleVerses.add(verse);
-    	}
-    	
-    	return new Situation(id, name, bibleVerses);    	
+
+    	Situation situation = Situation.parse(text, verses_array);
+    	return situation; 	
     }
-    
-    private BibleVerse parseBibleVerse(String text){
-    	StringTokenizer tokenizer = new StringTokenizer(text, "|");  
-    	String verse_id = tokenizer.nextToken();
-    	String verse_text = tokenizer.nextToken();
-    	
-		return new BibleVerse(verse_id, verse_text);
-    }
-    
+
 }

@@ -12,7 +12,7 @@ If you want to use your software development and design skills on Jesus' cause, 
 
 Roadmap
 -----------
-There are a list of opened Issues of improvement for the project. The main next steps are:
+There are a list of opened [issues](issues/) of improvement for the project. The main next steps are:
 
 *	Localization - Currently, we support English and Portuguese. We intend to translate the resources to other languages like Spanish, French, Italian and German. 
 
@@ -31,5 +31,5 @@ The app uses the old Android 2.1 platform, so it is compatible with almost any c
 
 Resources
 ---------
-[Android Developers official site](http://developer.android.com/) is a great resource
-[Bible Gateway](http://www.biblegateway.com/) provides bible versions in any popular language
+*	[Android Developers official site](http://developer.android.com/) is a great resource
+*	[Bible Gateway](http://www.biblegateway.com/) provides bible versions in any popular language

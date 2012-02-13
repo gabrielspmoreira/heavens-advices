@@ -12,7 +12,6 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.christianapps.heavensadv.values.BibleVerse;
 import com.christianapps.heavensadv.values.Situation;
 
 public class SituationsActivity extends ListActivity {

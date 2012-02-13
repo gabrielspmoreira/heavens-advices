@@ -21,17 +21,20 @@ import android.widget.TextView;
 
 import com.christianapps.heavensadv.values.BibleVerse;
 import com.christianapps.heavensadv.values.Situation;
+import com.christianapps.heavensadv.*;
 
 public class MainActivity extends ListActivity {
-
-	private static String[] options = new String[] {"Verso aleatório", "Situações"};
-
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 
 		super.onCreate(savedInstanceState);
+		//String locale = getResources().getConfiguration().locale.getDisplayName();
+		
+		final String[] mainMenuOptions = new String[] {getResources().getString(R.string.mainmenu_random), 
+												       getResources().getString(R.string.mainmenu_situations)};
 
-		setListAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, options));
+		setListAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, mainMenuOptions));
 
 		ListView lv = getListView();
 		lv.setTextFilterEnabled(true);
@@ -40,11 +43,11 @@ public class MainActivity extends ListActivity {
 			public void onItemClick(AdapterView<?> parent, View view,
 					int position, long id) {
 
-				if (options[(int) id].equalsIgnoreCase("Verso aleatório"))
+				if (mainMenuOptions[(int) id].equalsIgnoreCase(getResources().getString(R.string.mainmenu_random)))
 				{
 					showRandomBibleVerse();
 				}
-				else if (options[(int) id].equalsIgnoreCase("Situações"))
+				else if (mainMenuOptions[(int) id].equalsIgnoreCase(getResources().getString(R.string.mainmenu_situations)))
 				{
 					Intent intent = new Intent(view.getContext(), SituationsActivity.class);
 					startActivity(intent);

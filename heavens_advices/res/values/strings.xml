@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Heaven\'s Advices</string>
-    <string name="main_title">Heaven\'s Advices - Trazendo você para mais perto da atmosfera celeste!</string>
+    <string name="main_title">Heaven\'s Advices - Bringing you nearer from celestial atmosphere!</string>
     <string name="bibleverses_title">Heaven\'s Advices - Bible Verses</string>
-    <string name="situations_title">Heaven\'s Advices - Se você está...</string>
+    <string name="situations_title">Heaven\'s Advices - If you are &#8230;</string>
+    <string name="mainmenu_situations">How are you doing today?</string>
+    <string name="mainmenu_random">Today\'s special advice</string>
 </resources>

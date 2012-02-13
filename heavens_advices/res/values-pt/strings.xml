@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conselhos dos Céus</string>
+    <string name="main_title">Conselhos dos Céus - Trazendo você para mais perto da atmosfera celeste!</string>
+    <string name="bibleverses_title">Conselhos dos Céus - Versos da Bíblia</string>
+    <string name="situations_title">Conselhos dos Céus - Se estou &#8230;</string>
+    <string name="mainmenu_situations">Hoje eu estou &#8230;</string>
+    <string name="mainmenu_random">Conselho de hoje</string>
+</resources>

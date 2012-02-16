@@ -93,15 +93,7 @@ public class MainActivity extends ListActivity {
 		String[] promissesArray = getResources().getStringArray(com.christianapps.heavensadv.R.array.promissesarray);
 
 		Random random = new Random();
-		return parseBibleVerse(promissesArray[random.nextInt(promissesArray.length - 1)]);
+		return BibleVerse.parse(promissesArray[random.nextInt(promissesArray.length - 1)]);
 
-	}
-
-	private BibleVerse parseBibleVerse(String text){
-		StringTokenizer tokenizer = new StringTokenizer(text, "|");  
-		String verse_id = tokenizer.nextToken();
-		String verse_text = tokenizer.nextToken();
-
-		return new BibleVerse(verse_id, verse_text);
 	}
 }

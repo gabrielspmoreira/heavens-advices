@@ -61,7 +61,7 @@ public class MainActivity extends ListActivity {
 	 */
 	private void showRandomBibleVerse()
 	{
-		BibleVerse bibleVerse = getRandomBibleVerse();
+		BibleVerse bibleVerse = getRandomVerseBible();
 		AlertDialog alertDialog = new AlertDialog.Builder(MainActivity.this).create();
 		alertDialog.setTitle(bibleVerse.getVerseId());
 		alertDialog.setButton("OK", new DialogInterface.OnClickListener() {
@@ -87,42 +87,14 @@ public class MainActivity extends ListActivity {
 		return scroll;
 	}
 
-	private BibleVerse getRandomBibleVerse()
+
+	private BibleVerse getRandomVerseBible()
 	{
-		Situation randomSituation = getRandomSituation();
+		String[] promissesArray = getResources().getStringArray(com.christianapps.heavensadv.R.array.promissesarray);
 
 		Random random = new Random();
+		return parseBibleVerse(promissesArray[random.nextInt(promissesArray.length - 1)]);
 
-		return randomSituation.getBibleVerses().get(random.nextInt(randomSituation.getBibleVerses().size()));
-	}
-
-	private Situation getRandomSituation()
-	{
-		String[] situationsArray = getResources().getStringArray(com.christianapps.heavensadv.R.array.situations_array);
-
-		Random random = new Random();
-		return parseSituation(situationsArray[random.nextInt(situationsArray.length - 1)]);
-
-	}
-
-	private Situation parseSituation(String text){
-
-		StringTokenizer tokenizer = new StringTokenizer(text, "|");  
-		String id = tokenizer.nextToken();
-		String name = tokenizer.nextToken();
-
-		int array_id = getResources().getIdentifier(id.concat("_array"), "array", "com.christianapps.heavensadv");
-		String[] verses_array = getResources().getStringArray(array_id);
-
-		int array_lenght = verses_array.length;
-		ArrayList<BibleVerse> bibleVerses = new ArrayList<BibleVerse>();
-		for (int i=0; i< array_lenght; i++){
-			String fullText = verses_array[i];
-			BibleVerse verse = parseBibleVerse(fullText);
-			bibleVerses.add(verse);
-		}
-
-		return new Situation(id, name, bibleVerses);    	
 	}
 
 	private BibleVerse parseBibleVerse(String text){

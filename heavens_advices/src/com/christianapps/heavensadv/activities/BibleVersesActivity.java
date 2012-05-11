@@ -5,7 +5,9 @@ import java.util.ArrayList;
 import android.app.AlertDialog;
 import android.app.ListActivity;
 import android.content.DialogInterface;
+import android.graphics.Color;
 import android.os.Bundle;
+import android.view.Gravity;
 import android.view.View;
 import android.view.ViewGroup.LayoutParams;
 import android.widget.AdapterView;
@@ -13,6 +15,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.LinearLayout;
 import android.widget.ListView;
+import android.widget.PopupWindow;
 import android.widget.ScrollView;
 import android.widget.TextView;
 import com.christianapps.heavensadv.*;
@@ -30,7 +33,8 @@ public class BibleVersesActivity extends ListActivity {
 	  	setTitle(getResources().getString(R.string.app_name) + " - " + situation.getName());
 	  	
 	  	bibleVerses = situation.getBibleVerses();
-	  	setListAdapter(new ArrayAdapter(this, android.R.layout.simple_list_item_1, bibleVerses));
+	  	ArrayAdapter<BibleVerse> arrayAdapter = new ArrayAdapter<BibleVerse>(this, android.R.layout.simple_list_item_1, bibleVerses);
+		setListAdapter(arrayAdapter);
 	  	ListView lv = getListView();
 	  	lv.setTextFilterEnabled(true);
 	  	  
@@ -45,9 +49,6 @@ public class BibleVersesActivity extends ListActivity {
 	  	    	//alertDialog.setMessage(bibleVerse.getVerseText());
 	  	    	alertDialog.setButton("OK", new DialogInterface.OnClickListener() {
 	                public void onClick(DialogInterface dialog, int which) {
-	                	//Intent intent = new Intent();
-	                    //setResult(RESULT_OK, intent);
-	                    //finish();
 	                	return;
 	                    }
 	            });	  	    
@@ -62,6 +63,7 @@ public class BibleVersesActivity extends ListActivity {
         scroll.setLayoutParams(new LayoutParams(LayoutParams.FILL_PARENT, LayoutParams.FILL_PARENT));
         LinearLayout llay = new LinearLayout(BibleVersesActivity.this);
         llay.setLayoutParams(new LayoutParams(LayoutParams.FILL_PARENT, LayoutParams.FILL_PARENT));
+        llay.setBackgroundColor(Color.TRANSPARENT);
         TextView tv = new TextView(BibleVersesActivity.this);
         tv.setText(strText);
         tv.setTextSize(20);

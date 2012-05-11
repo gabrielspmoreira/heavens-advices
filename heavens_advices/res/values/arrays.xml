@@ -1,262 +1,298 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    
+<resources>    
     <string-array name="promissesarray">
-    	<item>1 Coríntios 16:9|Porque uma porta grande e eficaz se me abriu; e há muitos adversários.</item>
-		<item>Salmo 23:1|O Senhor é o meu pastor, nada me faltará.</item>
-		<item>João 11:40|Disse-lhe Jesus: Não te hei dito que, se creres, verás a glória de Deus?</item>
-		<item>Filipenses 4:19|O meu Deus, segundo as suas riquezas, suprirá todas as vossas necessidades em glória, por Cristo Jesus.</item>
-		<item>Mateus 11:29-30|Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e encontrareis descanso  para as vossas almas. Porque o meu jugo é suave e o meu fardo é leve.</item>
-		<item>Filipenses 4:6|Não estejais inquietos por coisa alguma; antes as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplicas, com ação de graças.</item>
-		<item>Salmo 6:9|O Senhor já ouviu a minha súplica; o Senhor aceitará a minha oração.</item>
-		<item>1 Coríntios 8:3|Mas, se alguém ama a Deus, esse é conhecido dEle.</item>
-		<item>Salmo 118:6|O Senhor está comigo; não temerei o que me pode fazer o homem.</item>
-		<item>I Tessalonicenses 5:17|Orai sem cessar.</item>
-		<item>Tiago 1:3|Sabendo que a prova da vossa fé opera a paciência.</item>
-		<item>Salmo 3:5|Eu me deitei e dormi; acordei, porque o Senhor me sustentou.</item>
-		<item>Marcos 16:15|Ide por todo o mundo, pregai o evangelho a toda criatura.</item>
-		<item>Salmo 30:5|Porque a sua ira dura só um momento; no seu favor está a vida. O choro pode durar uma noite, mas a alegria vem pela manhã.</item>
-		<item>Apocalipse 21:4 a|Deus enxugará de seus olhos toda lágrima.</item>
-		<item>Apocalipse 3:11|Eis que venho sem demora, guarda o que tens, para que ninguém tome a tua coroa.</item>
-		<item>Malaquias 3:1|EIS que eu envio o meu mensageiro, que preparará o caminho diante de mim; e de repente virá ao seu templo o Senhor, a quem vós buscais; e o mensageiro da aliança, a quem vós desejais, eis que ele vem, diz o SENHOR dos Exércitos.</item>
-		<item>1 João 2:23|Qualquer que nega o Filho, também não tem o Pai; e aquele que confessa o Filho, tem também o Pai.</item>
-		<item>Salmo 60:12|Em Deus faremos proezas; porque ele é que pisará os nossos inimigos.</item>
-		<item>Jeremias 15:19|Portanto assim diz o Senhor: Se tu voltares, então te trarei, e estarás diante de mim; e se apartares o precioso do vil, serás como a minha boca; tornem-se eles para ti, mas não voltes tu para eles.</item>
-		<item>Atos 14:22b|...pois que por muitas tribulações nos é necessário entrar no reino de Deus.</item>
-		<item>Salmo 121:12|O meu socorro vem do SENHOR que fez o céu e a terra.</item>
-		<item>Atos 20:35|Mais bem-aventurada coisa é dar do que receber.</item>
-		<item>João 15:15|Já vos não chamarei servos, porque o servo não sabe o que faz o seu senhor; mas tenho-vos chamado amigos, porque tudo quanto ouvi de meu Pai vos tenho feito conhecer.</item>
-		<item>Salmo 119:137|Justo és, ó SENHOR, e retos são os teus juízos.</item>
-		<item>1 Coríntios 10:14|Portanto, meus amados, fugi da idolatria.</item>
-		<item>Isaías 43:18|Não vos lembreis das coisas passadas, nem considereis as antigas.</item>
-		<item>Mateus 11:6|E bem-aventurado é aquele que não se escandalizar em mim.</item>
-		<item>Atos 3:19|Arrependei-vos, pois, e convertei-vos, para que sejam apagados os vossos pecados, de sorte que venham os tempos de refrigério, da presença do Senhor.</item>
-		<item>Deuteronômio 4:31|Porquanto o Senhor teu Deus é Deus misericordioso, e não te desamparará, nem te destruirá, nem se esquecerá da aliança que jurou a teus pais</item>
-		<item>Salmo 62:1|A minha alma espera somente em Deus; dele vem a minha salvação.</item>
-		<item>João 15:9|Disse Jesus: Como o Pai me amou, também eu vos amei a vós; permanecei no meu amor.</item>
-		<item>1 Coríntios 5:13|Mas Deus julga os que estão de fora. Tirai, pois, dentre vós a esse iníquo.</item>
-		<item>2 Coríntios 3:12|Tendo, pois, tal esperança, usamos de muita ousadia no falar.</item>
-		<item>Êxodo 20:16|Não dirás falso testemunho contra o teu próximo.</item>
-		<item>Filipenses 4:5|Seja a vossa eqüidade notória a todos os homens. Perto está o Senhor.</item>
-		<item>Jó 6:24|Ensinai-me, e eu me calarei; e fazei-me entender em que errei.</item>
-		<item>Êxodo 14:14|O Senhor pelejará por vós, e vos calareis.</item>
-		<item>1 Timóteo 2:1,3|Admoesto-te pois, antes de tudo, que se façam suplicas, orações, intercessões, e ações de graças por todos os homens;...Porque isto é bom e agradável diante de Deus nosso Salvador.</item>
-		<item>Jó 5:19|Em seis angústias te livrará; e na sétima o mal não te tocará.</item>
-		<item>I Tessalonicenses 5:18|Em tudo daí graças, porque esta é a vontade de Deus em Cristo Jesus para convosco.</item>
-		<item>Filipenses 1:29|Porque a vós foi concedido, por amor de Cristo, não somente o crer nele, mas também o padecer por ele.</item>
-		<item>Salmo 40:17|Mas eu sou pobre e necessitado; contudo o Senhor cuida de mim. Tu és o meu auxílio e o meu libertador; não te detenhas, ó meu Deus.</item>
-		<item>Marcos 4:40|E disse-lhes: Por que sois tão tímidos? Ainda não tendes fé?</item>
-		<item>Jó 5:2|Porque a ira destrói o louco; e o zelo mata o tolo.</item>
-		<item>João 16:33|Tenho-vos dito isto, para que em mim tenhais paz; no mundo tereis aflições, mas tende bom ânimo, eu venci o mundo. </item>
-		<item>João 8:36|Se, pois, o Filho vos libertar, verdadeiramente sereis livres.</item>
-		<item>Filipenses 4:4|Regozijai-vos sempre no Senhor; outra vez digo, regozijai-vos.</item>
-		<item>Salmo 68:19|Bendito seja o Senhor, que de dia em dia nos carrega de benefícios; o Deus que é a nossa salvação.</item>
-		<item>I Tessalonicenses 5:22|Abstende-vos de toda a aparência do mal. </item>
-		<item>Isaías 28:26|O seu Deus o ensina, e o instrui acerca do que há de fazer.</item>
-		<item>Mateus 20:27|E, qualquer que entre vós quiser ser o primeiro, seja vosso servo.</item>
-		<item>Filipenses 1:29|Posso todas as coisas naquele que me fortalece.</item>
-		<item>Efésios 6:11|Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo.</item>
-		<item>Tiago 1:20|Porque a ira do homem não opera a justiça de Deus.</item>
-		<item>Hebreus 11:1|Ora a fé, é o firme fundamento das coisas que se esperam, e a prova das coisas que se não vêem.</item>
-		<item>Hebreus 12:6|Porque o Senhor corrige o que ama, e açoita qualquer que recebe por filho.</item>
-		<item>Efésios 6:2-3|Honra a teu pai e tua mãe, que é o primeiro mandamento com promessa; para que te vá bem, e vivas muito tempo sobre a terra.</item>
-		<item>Jó 35:12|Clamam, porém ele não responde, por causa da arrogância dos maus.</item>
-		<item>Salmo 48:14|Porque este Deus é o nosso Deus para sempre; ele será nosso guia até à morte.</item>
-		<item>1 Coríntios 14:40|Mas faça-se tudo decentemente e com ordem.</item>
-		<item>Jó 8:21|Até que de riso te encha a boca, e os teus lábios de louvor.</item>
-		<item>Hebreus 13:5|Seja a vossa vida isenta de ganância, contentando-vos com o que tendes; porque ele mesmo disse: Não te deixarei, nem te desampararei.</item>
-		<item>1 Pedro 5:7|Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.</item>
-		<item>Hebreus 13:6b|O Senhor é quem me ajuda, e não temerei o que possa me fazer o homem.</item>
-		<item>Hebreus 13:8|Jesus Cristo é o mesmo ontem, hoje e eternamente.</item>
-		<item>Salmo 27:1|O Senhor é a minha luz e a minha salvação; a quem temerei? O Senhor é a força da minha vida; de quem me recearei? </item>
-		<item>Salmo 64:10|O justo se alegrará no SENHOR, e confiará nele, e todos os retos de coração se gloriarão.</item>
-		<item>I Coríntios 13:7|O que ama, tudo sofre, tudo crê, tudo espera, tudo suporta.</item>
-		<item>1 Tessalonicenses 5:24|Fiel é o que vos chama, o qual também o fará.</item>
-		<item>I João 1:9|Se confessarmos os nossos pecados, Ele é fiel e justo, para nos perdoar os pecados e nos purificar de toda injustiça.</item>
-		<item>Salmo 91:15|Ele me invocará, e eu lhe responderei; estarei com ele na angústia; dela o retirarei, e o glorificarei.</item>
-		<item>Apocalipse 2:25|Mas o que tendes, retende-o até que eu venha.</item>
-		<item>Salmo 57:2|Clamarei ao Deus altíssimo, ao Deus que por mim tudo executa.</item>
-		<item>I João 3:21|Amados, se o nosso coração não nos condena, temos confiança para com Deus.</item>
-		<item>I João 5:2|Nisto conhecemos que amamos os filhos de Deus, quando amamos a Deus e guardamos os seus mandamentos.</item>
-		<item>Êxodo 20:3|Não terás outros deuses diante de mim.</item>
-		<item>Atos 8:22|Arrepende-te, pois, dessa tua iniqüidade, e ora a Deus, para que porventura te seja perdoado o pensamento do teu coração.</item>
-		<item>Marcos 13:31|Passará o céu e a terra mas as minhas palavras não passarão.</item>
-		<item>Salmo 31:24|Esforçai-vos, e ele fortalecerá o vosso coração, vós todos que esperais no Senhor.</item>
-		<item>Tiago 4:10|Humilhai-vos perante o Senhor, e ele vos exaltará.</item>
-		<item>Jó 36:11|Se o ouvirem, e o servirem, acabarão seus dias em bem, e os seus anos em delícias.</item>
-		<item>I Tessalonicenses 5:9|Deus não nos destinou para a ira, mas para a aquisição da salvação por nosso Senhor Jesus Cristo.</item>
-		<item>Mateus 22:14|Porque muitos são chamados, mas poucos escolhidos.</item>
-		<item>João 14:14|Se pedirdes alguma coisa em meu nome, eu o farei.</item>
-		<item>II Coríntios 12:10|Porque quando estou fraco então sou forte.</item>
-		<item>Oséias 13:5|Eu te conheci no deserto, na terra muito seca.</item>
-		<item>II Pedro 3:9|O Senhor não retarda a sua promessa, ainda que alguns a tem por tardia.</item>
-		<item>Hebreus 4:12|Porque a palavra de Deus é viva e eficaz, e mais penetrante do que espada alguma de dois gumes, e penetra até à divisão da alma e do espírito, e das juntas e medulas, e é apta para discernir os pensamentos e intenções do coração.</item>
-		<item>II Samuel 22:33|Deus é a minha fortaleza e a minha força, e Ele perfeitamente desembaraça o meu caminho.</item>
-		<item>II Timóteo 1:7|Porque Deus não nos deu o Espírito de temor, mas de fortaleza, de amor e de moderação.</item>
-		<item>Naum 2:1|O destruidor subiu contra ti. Guarda tu a fortaleza, vigia o caminho, fortalece os lombos, reforça muito o seu poder.</item>
-		<item>Mateus 10:38|E quem não toma a sua cruz, e não segue após mim, não é digno de mim.</item>
-		<item>Jó 35:4|Eu te darei resposta, a ti e aos teus amigos contigo.</item>
-		<item>Isaías 41:10|Não temas, porque Eu sou contigo, não te assombres, porque Eu sou teu Deus, Eu te esforço e te ajudo, e te sustento com destra da minha justiça.</item>
-		<item>Mateus 15:16|Jesus, porém, disse: Até vós mesmos estais ainda sem entender?</item>
-		<item>Isaías 43:11|Eu sou o Senhor, e fora de mim não há salvador.</item>
-		<item>Isaías 43:13|Operando Deus, quem impedirá?</item>
-		<item>Apocalipse 14:7|Dizendo com grande voz: Temei a Deus, e dai-lhe glória; porque é vinda a hora do seu juízo. E adorai aquele que fez o céu, e a terra, e o mar, e as fontes das águas.</item>
-		<item>Naum 1:3|O Senhor é tardio em irar-se, mas grande em poder, e ao culpado não tem por inocente; o SENHOR tem o seu caminho na tormenta e na tempestade, e as nuvens são o pó dos seus pés.</item>
-		<item>Isaías 32:18|E o meu povo habitará em morada de paz, e em moradas bem seguras, e em lugares quietos de descanso.</item>
-		<item>Mateus 6:14|Porque se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós.</item>
-		<item>Salmo 101:7|O que usa de engano não ficará dentro da minha casa; o que fala mentiras não estará firme perante os meus olhos.</item>
-		<item>Provérbios 15:13|O coração alegre aformoseia o rosto, mas pela dor do coração o espírito se abate.</item>
-		<item>Isaías 43:2|Quando passares pelas águas, estarei contigo; quando pelos rios, eles não te submergirão; quando passares pelo fogo, não te queimarás, nem a chama arderá em ti.</item>
-		<item>Isaías 49:16|Eis que nas palmas das minhas mãos tenho gravado.</item>
-		<item>Salmo 101:6|Os meus olhos estarão sobre os fiéis da terra, para que se assentem comigo; o que anda num caminho reto, esse me servirá.</item>
-		<item>Mateus 5:8|Bem-aventurados os limpos de coração, porque eles verão a Deus. </item>
-		<item>Isaías 51:12|Eu, sou aquele que vos consola; quem, pois, és tu, para teres medo dum homem, que é mortal, ou do filho do homem que se tornará como feno.</item>
-		<item>Salmo 50:15|E invoca-me no dia da angústia; eu te livrarei, e tu me glorificarás.</item>
-		<item>Provérbios 2:6|Porque o Senhor é que dá sabedoria e da sua boca é que sai o conhecimento e o entendimento.</item>
-		<item>Salmo 37:22|Porque aqueles que ele abençoa herdarão a terra, e aqueles que forem por ele amaldiçoados serão desarraigados.</item>
-		<item>Provérbios 23:26a|Dá-me filho meu, o teu coração.</item>
-		<item>Isaías 55:6|Buscai ao Senhor enquanto se pode achar, invocai-o enquanto está perto.</item>
-		<item>Isaías 55:8|Porque os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos os meus caminhos, diz o Senhor.</item>
-		<item>Jeremias 17:14|Sara-me, ó Senhor, e sararei; salva-me, e serei salvo; pois tu és o meu louvor.</item>
-		<item>João 14:18|Não vos deixarei órfãos; voltarei para vós.</item>
-		<item>Jeremias 17:7|Bendito o homem que confia no Senhor, e cuja esperança é o Senhor.</item>
-		<item>Jeremias 21:8|Assim diz o Senhor: Eis que ponho diante de vós o caminho da vida e o caminho da morte.</item>
-		<item>Isaías 59:1|Eis que a mão do Senhor não está encolhida, para que não possa salvar; nem agravado o seu ouvido, para não poder ouvir.</item>
-		<item>Jó 11:10|Se ele destruir, encerrar, ou juntar, quem o impedirá?</item>
-		<item>Lucas 24:49|E eis que sobre vós envio a promessa de meu Pai; ficai, porém, na cidade de Jerusalém, até que do alto sejais revestidos de poder.</item>
-		<item>2 Reis 11:5a|E deu-lhes ordem, dizendo: Isto é o que haveis de fazer:...</item>
-		<item>Jeremias 29:12-13|Então me invocareis, e ireis, e orareis a mim, e eu vos ouvirei. E buscar-me-eis e me achareis, quando me buscardes de todo o vosso coração.</item>
-		<item>Salmo 36:12|Ali caem os que praticam a iniqüidade; cairão, e não se poderão levantar.</item>
-		<item>Salmo 33:12|Bem-aventurada é a nação cujo Deus é o SENHOR, e o povo ao qual escolheu para sua herança.</item>
-		<item>Jeremias 29:13|E buscar-me-eis e me achareis quando me buscardes de todo o vosso coração. </item>
-		<item>Jeremias 33:3|Clama a mim e responder-te-ei, e anunciar-te-ei coisas grandes e firmes, que não sabes.</item>
-		<item>Salmo 112:5|O homem bom se compadece, e empresta; disporá as suas coisas com juízo.</item>
-		<item>Jó 19:25|Porque eu sei que o meu Redentor vive, e que por fim se levantará sobre a terra.</item>
-		<item>1 Coríntios 10:12|Aquele, pois, que cuida estar em pé, olhe não caia.</item>
-		<item>Mateus 24:13|Mas aquele que perseverar até ao fim será salvo.</item>
-		<item>Jó 33:4|O Espírito de Deus me fez, a inspiração do Todo-Poderoso me deu vida.</item>
-		<item>Salmo 119:11|Escondi a tua palavra no meu coração, para eu não pecar contra ti.</item>
-		<item>1 João 4:10|Nisto está o amor, não em que nós tenhamos amado a Deus, mas em que ele nos amou a nós, e enviou seu Filho para propiciação pelos nossos pecados.</item>
-		<item>Tiago 5:8|Sede vós também pacientes; fortalecei os vossos corações, porque a vinda do Senhor está próxima.</item>
-		<item>1 João 4:8|Aquele que não ama não conhece a Deus; porque Deus é amor.</item>
-		<item>Lucas 5:32|Eu não vim chamar os justos, mas, sim, os pecadores, ao arrependimento.</item>
-		<item>João 10:10|Disse Jesus: Eu vim para que tenham vida, e a tenham com abundância.</item>
-		<item>João 11:25|Disse Jesus: Eu sou a ressurreição e a vida, quem crê em mim, ainda que esteja morto, viverá.</item>
-		<item>João 13:7|O que Eu faço não sabes tu agora, mas tu o saberás depois.</item>
-		<item>Salmo 51:17|Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e contrito não desprezarás, ó Deus.</item>
-		<item>Provérbios 24:10|Se te mostrares frouxo no dia da angustia, a tua força será pequena.</item>
-		<item>João 14:13|E tudo quanto pedires em meu nome ao Pai Eu o farei, para que o Pai seja glorificado no Filho.</item>
-		<item>João 4:24|Deus é espírito, e importa que os que o adoram, o adorem em espírito e em verdade.</item>
-		<item>Efésios 6:10|No demais, irmãos meus, fortalecei-vos no Senhor e na força do seu poder.</item>
-		<item>Deuteronômio 4:31|Porquanto o Senhor teu Deus é Deus misericordioso, e não te desamparará, nem te destruirá, nem se esquecerá da aliança que jurou a teus pais.</item>
-		<item>João 10:10|O ladrão não vem senão a roubar, a matar, e a destruir; eu vim para que tenham vida, e a tenham com abundância.</item>
-		<item>João 10:11|Eu sou o bom Pastor; o bom Pastor dá a sua vida pelas ovelhas.</item>
-		<item>João 10:9|Eu sou a porta; se alguém entrar por mim, salvar-se-á, e entrará, e sairá, e achará pastagens.</item>
-		<item>Números 6:24-26|O Senhor te abençoe e te guarde; o Senhor faça resplandecer o seu rosto sobre ti, e tenha misericórdia de ti; o Senhor sobre ti levante o seu rosto, e te dê a paz.</item>
-		<item>Jó 8:20|Eis que Deus não rejeitará ao reto; nem toma pela mão aos malfeitores.</item>
-		<item>Deuteronômio 11:26|Eis que hoje eu ponho diante de vós a bênção e a maldição.</item>
-		<item>2 Coríntios 12:9a|A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza.</item>
-		<item>João 7:24|Não julgueis segundo a aparência, mas julgai segundo a reta justiça.</item>
-		<item>João 17:15|Não peço que os tires do mundo, mas que os livres do mal.</item>
-		<item>João 8:12|Disse Jesus: Eu sou a luz do mundo, quem me segue não andará em trevas, mas terá a luz da vida.</item>
-		<item>Salmo 97:7|Confundidos sejam todos os que servem imagens de escultura, que se gloriam de ídolos; prostrai-vos diante dele todos os deuses.</item>
-		<item>Salmo 2:11|Servi ao Senhor com temor, e alegrai-vos com tremor.</item>
-		<item>João 5:41|Eu não recebo glória dos homens;</item>
-		<item>João 15:17|Isto vos mando: Que vos ameis uns aos outros.</item>
-		<item>2 Timóteo 2:1|Tu, pois, meu filho, fortifica-te na graça que há em Cristo Jesus.</item>
-		<item>Isaías 35:3|Fortalecei as mãos fracas, e firmai os joelhos trementes.</item>
-		<item>Oséias 13:14|Eu os remirei da mão do inferno, e os resgatarei da morte. Onde estão, ó morte, as tuas pragas? Onde está, ó inferno, a tua perdição? O arrependimento está escondido de meus olhos.</item>
-		<item>Gálatas 3:26|Porque todos sois filhos de Deus pela fé em Cristo Jesus.</item>
-		<item>Isaías 43:15|Eu sou o Senhor, vosso Santo, o Criador de Israel, vosso Rei.</item>
-		<item>João 8:32|E conhecereis a verdade, e a verdade vos libertará.</item>
-		<item>Provérbios 22:8|O que semear a perversidade segará males; e com a vara da sua própria indignação será extinto.</item>
-		<item>Josué 1:5c|Não te deixarei, nem te desampararei.</item>
-		<item>Provérbios 3:12|Porque o Senhor repreende aquele a quem ama, assim como o pai ao filho a quem quer bem.</item>
-		<item>Jeremias 7:8|Eis que vós confiais em palavras falsas, que para nada vos aproveitam</item>
-		<item>Lamentações 3:26|Bom é ter esperança, e aguardar em silêncio a salvação do Senhor.</item>
-		<item>Salmo 84:5|Bem-aventurado o homem cuja força está em ti, em cujo coração estão os caminhos aplanados.</item>
-		<item>Marcos 14:38|Vigiai e orai, para que não entreis em tentação; o espírito, na verdade, está pronto, mas a carne é fraca.</item>
-		<item>Romanos 12:12|Alegrai-vos na esperança, sede pacientes na tribulação, perseverai na oração.</item>
-		<item>Mateus 8:7|E Jesus lhe disse: Eu irei, e lhe darei saúde.</item>
-		<item>Mateus 10:33|Mas qualquer que me negar diante dos homens, eu o negarei também diante de meu Pai, que está nos céus.</item>
-		<item>Mateus 10:31|Não temais, pois; mais valeis vós do que muitos passarinhos.</item>
-		<item>Mateus 10:32|Portanto, qualquer que me confessar diante dos homens, eu o confessarei diante de meu Pai, que está nos céus.</item>
-		<item>Lucas 18:27|As coisas que são impossíveis aos homens, são possíveis a Deus.</item>
-		<item>Salmo 23:1|O Senhor é o meu pastor, nada me faltará.</item>
-		<item>Isaías 48:22|Mas os ímpios não têm paz, disse o Senhor.</item>
-		<item>Salmo 25:14|O segredo do Senhor é com aqueles que o temem; e ele lhes mostrará a sua aliança.</item>
-		<item>Mateus 18:11|Porque o Filho do homem veio salvar o que se tinha perdido.</item>
-		<item>Salmo 34:17|Os justos clamam, e o Senhor os ouve, e os livra de todas as suas angústias.</item>
-		<item>Lucas 22:40|Disse Jesus: Orai, para que não entreis em tentação.</item>
-		<item>Romanos 5:8|Mas Deus prova o seu amor para conosco, em que Cristo morreu por nós, sendo nós ainda pecadores.</item>
-		<item>Isaías 26:7|O caminho do justo é todo plano; tu retamente pesas o andar do justo.</item>
-		<item>Jó 5:18|Eis que bem-aventurado é o homem a quem Deus castiga; não desprezes pois, o castigo do todo-poderoso. Porque ele faz a chaga, e ele mesmo a liga; ele fere, e as suas mãos curam.</item>
-		<item>Jó 5:10|Ele dá a chuva sobre a terra, e envia águas sobre os campos.</item>
-		<item>Isaías 42:18|Surdos, ouvi, e vós, cegos, olhai, para que possais ver.</item>
-		<item>Mateus 16:26|Disse Jesus: O que aproveita ao homem ganhar o mundo inteiro, se perder a sua alma.</item>
-		<item>Mateus 21:22|Disse Jesus: Tudo o que pedirdes em oração, crendo, o recebereis. </item>
-		<item>Mateus 22:29|Jesus, porém, lhes respondeu: Errais, não conhecendo as Escrituras nem o poder de Deus.</item>
-		<item>Mateus 5:48|Sêde vós perfeitos, como é perfeito o vosso Pai que está no céu.</item>
-		<item>Salmo 147:7|Cantai ao Senhor em ação de graças; cantai louvores ao nosso Deus sobre a harpa.</item>
-		<item>1 Coríntios 16:14|Todas as vossas coisas sejam feitas com amor.</item>
-		<item>Salmos 103:104|Porque Ele conhece a nossa estrutura, lembra-se de que somos pó.</item>
-		<item>Salmo 126:5|Os que semeiam em lágrimas segarão com alegria.</item>
-		<item>Jó 15:11a|Porventura as consolações de Deus te são pequenas?</item>
-		<item>Salmos 118:8|é melhor confiar no Senhor do que confiar no homem.</item>
-		<item>Isaías 50:801|Perto está o que me justifica; quem contenderá comigo? Compareçamos juntamente; quem é meu adversário? Chegue-se para mim.</item>
-		<item>Salmos 119:105|Lâmpada para os meus pés é a tua palavra, e luz para o meu caminho.</item>
-		<item>Salmos 139:23-24|Sonda-me, ó Deus, e conhece o meu coração; prova-me, e conhece os meus pensamentos; e vê se há em mim algum caminho mau, e guia-me pelo caminho eterno.</item>
-		<item>Salmos 18:32|Deus é que me cinge de força e torna perfeito o meu caminho.</item>
-		<item>2 Coríntios 2:8|Por isso vos rogo que confirmeis para com ele o vosso amor.</item>
-		<item>Lucas 21:33|Passará o céu e a terra, mas as minhas palavras não hão de passar.</item>
-		<item>1 Coríntios 16:13|Vigiai, estai firmes na fé; portai-vos varonilmente, e fortalecei-vos.</item>
-		<item>Jeremias 7:8|Eis que vós confiais em palavras falsas, que para nada vos aproveitam.</item>
-		<item>Lucas 14:34|Bom é o sal; mas, se o sal degenerar, com que se há de salgar?</item>
-		<item>Mateus 5:8|Bem aventurados os limpos de coração, porque eles verão a Deus.</item>
-		<item>Mateus 6:33|Mas, buscai primeiro o reino de Deus, e a sua justiça, e todas estas coisas vos serão acrescentadas.</item>
-		<item>Mateus 5:9|Bem-aventurados os pacificadores, porque eles serão chamados filhos de Deus.</item>
-		<item>João 14:13,14|E tudo quanto pedirdes em meu nome eu o farei, para que o Pai seja glorificado no Filho. Se pedirdes alguma coisa em meu nome, eu o farei.</item>
-		<item>Mateus 28:20|Ensinando-os a guardar todas as coisas que eu vos tenho mandado; e eis que eu estou convosco todos os dias, até a consumação dos séculos. Amém.</item>
-		<item>Provérbios 10:22|A benção do Senhor é que enriquece, e não acrescenta dores.</item>
-		<item>Provérbios 14:1|A mulher sábia edifica a sua casa, mas a tola, a derruba com as próprias mãos.</item>
-		<item>1 Coríntios 16:9|Porque uma porta grande e eficaz se me abriu; e há muitos adversários.</item>
-		<item>Salmo 23:4|Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam.</item>
-		<item>1 Pedro 5:6|Humilhai-vos, pois, debaixo da potente mão de Deus, para que a seu tempo vos exalte.</item>
-		<item>Romanos 8:32|Aquele que nem mesmo a seu próprio Filho poupou, antes o entregou por todos nós, como nos não dará também com ele todas as coisas?</item>
-		<item>Salmo 28:7|O Senhor é a minha força e o meu escudo; nele confiou o meu coração, e fui socorrido; pelo que o meu coração salta de prazer, e com o meu cântico o louvarei.</item>
-		<item>Marcos 11:24|Por isso vos digo que todas as coisas que pedirdes, orando, crede que o recebereis, e tê-los-eis.</item>
-		<item>Hebreus 2:18|Porque naquilo que ele mesmo, sendo tentado, padeceu, pode socorrer aos que são tentados.</item>
-		<item>Mateus 7:7-8|Pedi, e dar-se-vos-á; buscai, e encontrareis; batei, e abrir-se-vos-á. Porque, aquele que pede, recebe; e o que busca, encontra; e ao que bate, se abre.</item>
-		<item>Tiago 4:8|Chegai-vos a Deus, e ele se chegará a vós. Alimpai as mãos, pecadores; e, vós de duplo ânimo, purificai os corações.</item>
-		<item>João 8:12|Disse Jesus: Eu sou a luz do mundo; quem me segue não andará em trevas, mas terá a luz da vida.</item>
-		<item>Provérbios 14:12|Há caminho que ao homem parece direito, mas o fim dele conduz à morte.</item>
-		<item>Salmos 34:13|Guarda a tua língua do mal, e os teus lábios de falarem dolosamente.</item>
-		<item>Judas 24|Ora, àquele que é poderoso para vos guardar de tropeçar, e apresentar-vos irrepreensíveis, com alegria, perante a sua glória.</item>
-		<item>Tiago 5:16|Confessai as vossas culpas uns aos outros, e orai uns pelos outros, para que sareis. A oração feita por um justo pode muito em seus efeitos.</item>
-		<item>Filipenses 4:7|E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos sentimentos em Cristo Jesus.</item>
-		<item>João 15:7|Se vós estiverdes em mim, e as minhas palavras estiverem em vós, pedireis tudo o que quiserdes, e vos será feito.</item>
-		<item>1 Coríntios 10:13|Não veio sobre vós tentação, senão humana; mas fiel é Deus, que não vos deixará tentar acima do que podeis, antes com a tentação dará também o escape, para que a possais suportar.</item>
-		<item>Salmo 34:7|O anjo do Senhor acampa-se ao redor dos que o temem, e os livra.</item>
-		<item>Salmo 34:8|Provai, e vede que o Senhor é bom; bem-aventurado o homem que nele se refugia.</item>
-		<item>Salmo 37:16|Vale mais o pouco que tem o justo do que as riquezas de muitos ímpios.</item>
-		<item>Salmos 37:23|Os passos de um homem bom são confirmados pelo Senhor.</item>
-		<item>Salmo 37:5|Entrega o teu caminho ao Senhor, confia nele e Ele tudo fará.</item>
-		<item>Salmo 40:1|Esperei com paciência pelo Senhor, e Ele se inclinou para mim e ouviu o meu clamor.</item>
-		<item>Salmo 42:1|Como o cervo anseia pelas correntes das águas, assim a minha alma anseia por ti, ó Deus!</item>
-		<item>Salmos 46:1|Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.</item>
-		<item>Salmos 46:10a|Aquietai-vos, e sabei que eu sou Deus;</item>
-		<item>Salmo 46:11|O Senhor dos exércitos está conosco; o Deus de Jacó é o nosso refúgio.</item>
-		<item>Salmos 51:10|Cria em mim ó Deus, um coração puro, e renova em mim um espírito reto.</item>
-		<item>Salmo 91:1|Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.</item>
-		<item>Salmo 91:10-11|Nenhum mal te sucederá, nem praga alguma chegará à tua casa, porque aos seus anjos dará ordem a teu respeito, para te guardarem em todos os teus caminhos.</item>
-		<item>Salmo 91:2|Direi do Senhor: Ele é o meu Deus, o meu refúgio e a minha fortaleza, e nEle confiarei.</item>
-		<item>Salmo 91:7|Mil poderão cair ao teu lado, e dez mil à tua direita; mas tu não serás atingido.</item>
-		<item>Sofonias 3:17|O Senhor teu Deus está no meio de ti, poderoso para te salvar; ele se deleitará em ti com alegria; renovar-te-á no seu amor, regozijar-se-á em ti com júbilo.</item>
-		<item>Tiago 5:16|Confessai, portanto, os vossos pecados uns aos outros, e orai uns pelos outros, para serdes curados. A oração de um justo pode muito em seus efeitos.</item>
+   		<item>
+    	    I Corinthians 16:9|For a great door and effectual is opened unto me, and there are many adversaries.
+   	    </item>
+		<item>
+		    Psalm 23:1|The LORD is my shepherd; I shall not want.
+	    </item>
+		<item>
+		    John 11:40|Jesus saith unto her, Said I not unto thee, that, if thou wouldest believe, thou shouldest see the glory of God?
+	    </item>
+		<item>
+		    Philippians 4:19|But my God shall supply all your need according to his riches in glory by Christ Jesus.
+	    </item>
+		<item>
+		    Matthew 11:29-30|Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. For my yoke is easy, and my burden is light.
+	    </item>
+		<item>
+		    Philippians 4:6|Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.
+	    </item>
+		<item>
+		    Psalm 6:9|The LORD hath heard my supplication; the LORD will receive my prayer.
+	    </item>
+		<item>
+		    I Corinthians 8:3|But if any man love God, the same is known of him.
+	    </item>
+		<item>
+		    Psalm 118:6|The LORD is on my side; I will not fear: what can man do unto me?
+	    </item>
+		<item>
+		    I Thessalonians 5:17|Pray without ceasing.
+	    </item>
+		<item>
+		    James 1:3|Knowing this, that the trying of your faith worketh patience.
+	    </item>
+		<item>
+		    Psalm 3:5|I laid me down and slept; I awaked; for the LORD sustained me.
+	    </item>
+		<item>
+		    Mark 16:15|And he said unto them, Go ye into all the world, and preach the gospel to every creature.
+	    </item>
+		<item>
+		    Psalm 30:5|For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning.
+	    </item>
+		<item>
+		    Revelation 21:4|And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.
+	    </item>
+		<item>
+		    Revelation 3:11|Behold, I come quickly: hold that fast which thou hast, that no man take thy crown.
+	    </item>
+		<item>
+		    Malachi 3:1|Behold, I will send my messenger, and he shall prepare the way before me: and the LORD, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.
+	    </item>
+		<item>
+		    I John 2:23|Whosoever denieth the Son, the same hath not the Father: he that acknowledgeth the Son hath the Father also.
+	    </item>
+		<item>
+		    Psalm 60:12|Through God we shall do valiantly: for he it is that shall tread down our enemies.
+	    </item>
+		<item>
+		    Jeremiah 15:19|Therefore thus saith the LORD, If thou return, then will I bring thee again, and thou shalt stand before me: and if thou take forth the precious from the vile, thou shalt be as my mouth: let them return unto thee; but return not thou unto them.
+	    </item>
+		<item>Acts 14:22|... we must through much tribulation enter into the kingdom of God.</item>
+		<item>Psalm 121:2|My help cometh from the LORD, which made heaven and earth.</item>
+		<item>Acts 20:35|I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.</item>
+		<item>John 15:15|Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you.</item>
+		<item>Psalm 119:137|Righteous art thou, O LORD, and upright are thy judgments.</item>
+		<item>I Corinthians 10:14|Wherefore, my dearly beloved, flee from idolatry.</item>
+		<item>Isaiah 43:18|Remember ye not the former things, neither consider the things of old.</item>
+		<item>Matthew 11:6|And blessed is he, whosoever shall not be offended in me.</item>
+		<item>Acts 3:19|Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord.</item>
+		<item>Deuteronomy 4:31|(For the LORD thy God is a merciful God;) he will not forsake thee, neither destroy thee, nor forget the covenant of thy fathers which he sware unto them.</item>
+		<item>Psalm 62:1|Truly my soul waiteth upon God: from him cometh my salvation.</item>
+		<item>John 15:9|As the Father hath loved me, so have I loved you: continue ye in my love.</item>
+		<item>I Corinthians 5:13|But them that are without God judgeth. Therefore put away from among yourselves that wicked person.</item>
+		<item>II Corinthians 3:12|Seeing then that we have such hope, we use great plainness of speech.</item>
+		<item>Exodus 20:16|Thou shalt not bear false witness against thy neighbour.</item>
+		<item>Philippians 4:5|Let your moderation be known unto all men. The Lord is at hand.</item>
+		<item>Job 6:24|Teach me, and I will hold my tongue: and cause me to understand wherein I have erred.</item>
+		<item>Exodus 14:14|The LORD shall fight for you, and ye shall hold your peace.</item>
+		<item>I Timothy 2:1,3|I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;...For this is good and acceptable in the sight of God our Saviour.</item>
+		<item>Job 5:19|He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee.</item>
+		<item>I Thessalonians 5:18|In every thing give thanks: for this is the will of God in Christ Jesus concerning you.</item>
+		<item>Philippians 1:29|For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake.</item>
+		<item>Psalm 40:17|But I am poor and needy; yet the Lord thinketh upon me: thou art my help and my deliverer; make no tarrying, O my God.</item>
+		<item>Mark 4:40|And he said unto them, Why are ye so fearful? how is it that ye have no faith?</item>
+		<item>Job 5:2|For wrath killeth the foolish man, and envy slayeth the silly one.</item>
+		<item>John 16:33|These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.</item>
+		<item>John 8:36|If the Son therefore shall make you free, ye shall be free indeed.</item>
+		<item>Philippians 4:4|Rejoice in the Lord always: and again I say, Rejoice.</item>
+		<item>Psalm 68:19|Blessed be the Lord, who daily loadeth us with benefits, even the God of our salvation. Selah.</item>
+		<item>I Thessalonians 5:22|Abstain from all appearance of evil.</item>
+		<item>Isaiah 28:26|For his God doth instruct him to discretion, and doth teach him.</item>
+		<item>Matthew 20:27|And whosoever will be chief among you, let him be your servant:</item>
+		<item>Philippians 1:29|For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake.</item>
+		<item>Epheasians 6:11|Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.</item>
+		<item>James 1:20|For the wrath of man worketh not the righteousness of God.</item>
+		<item>Hebrews 11:1|Now faith is the substance of things hoped for, the evidence of things not seen.</item>
+		<item>Hebrews 12:6|For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.</item>
+		<item>Epheasians 6:2-3|Honour thy father and mother; which is the first commandment with promise;That it may be well with thee, and thou mayest live long on the earth.</item>
+		<item>Job 35:12|There they cry, but none giveth answer, because of the pride of evil men.</item>
+		<item>Psalm 48:14|For this God is our God for ever and ever: he will be our guide even unto death.</item>
+		<item>I Corinthians 14:40|Let all things be done decently and in order.</item>
+		<item>Job 8:21|Till he fill thy mouth with laughing, and thy lips with rejoicing.</item>
+		<item>Hebrews 13:5|Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.</item>
+		<item>I Peter 5:7|Casting all your care upon him; for he careth for you.</item>
+		<item>Hebrews 13:6|So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me.</item>
+		<item>Hebrews 13:8|Jesus Christ the same yesterday, and to day, and for ever.</item>
+		<item>Psalm 27:1|The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?</item>
+		<item>Psalm 64:10|The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory.</item>
+		<item>I Corinthians 13:7|Beareth all things, believeth all things, hopeth all things, endureth all things.</item>
+		<item>I Thessalonians 5:24|Faithful is he that calleth you, who also will do it.</item>
+		<item>I John 1:9|If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.</item>
+		<item>Psalm 91:15|He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him.</item>
+		<item>Revelation 2:25|But that which ye have already hold fast till I come.</item>
+		<item>Psalm 57:2|I will cry unto God most high; unto God that performeth all things for me.</item>
+		<item>I John 3:21|Beloved, if our heart condemn us not, then have we confidence toward God.</item>
+		<item>I John 5:2|By this we know that we love the children of God, when we love God, and keep his commandments.</item>
+		<item>Exodus 20:3|Thou shalt have no other gods before me.</item>
+		<item>Acts 8:22|Repent therefore of this thy wickedness, and pray God, if perhaps the thought of thine heart may be forgiven thee.</item>
+		<item>Mark 13:31|Heaven and earth shall pass away: but my words shall not pass away.</item>
+		<item>Psalm 31:24|Be of good courage, and he shall strengthen your heart, all ye that hope in the LORD.</item>
+		<item>James 4:10|Humble yourselves in the sight of the Lord, and he shall lift you up.</item>
+		<item>Job 36:11|If they obey and serve him, they shall spend their days in prosperity, and their years in pleasures.</item>
+		<item>I Thessalonians 5:9|For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ.</item>
+		<item>Matthew 22:14|For many are called, but few are chosen.</item>
+		<item>John 14:14|If ye shall ask any thing in my name, I will do it.</item>
+		<item>II Corinthians 12:10|Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ\'s sake: for when I am weak, then am I strong.</item>
+		<item>Hosea 13:5|I did know thee in the wilderness, in the land of great drought.</item>
+		<item>II Peter 3:9|The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.</item>
+		<item>Hebrews 4:12|For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.</item>
+		<item>II Samuel 22:33|God is my strength and power: and he maketh my way perfect.</item>
+		<item>II Timothy 1:7|For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.</item>
+		<item>Nahum 2:1|He that dasheth in pieces is come up before thy face: keep the munition, watch the way, make thy loins strong, fortify thy power mightily.</item>
+		<item>Matthew 10:38|And he that taketh not his cross, and followeth after me, is not worthy of me.</item>
+		<item>Job 35:4|I will answer thee, and thy companions with thee.</item>
+		<item>Isaiah 41:10|Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.</item>
+		<item>Matthew 15:16|And Jesus said, Are ye also yet without understanding?</item>
+		<item>Isaiah 43:11|I, even I, am the LORD; and beside me there is no saviour.</item>
+		<item>Isaiah 43:13|Yea, before the day was I am he; and there is none that can deliver out of my hand: I will work, and who shall let it?</item>
+		<item>Revelation 14:7|Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.</item>
+		<item>Nahum 1:3|The LORD is slow to anger, and great in power, and will not at all acquit the wicked: the LORD hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet.</item>
+		<item>Isaiah 32:18|And my people shall dwell in a peaceable habitation, and in sure dwellings, and in quiet resting places.</item>
+		<item>Matthew 6:14|For if ye forgive men their trespasses, your heavenly Father will also forgive you:</item>
+		<item>Psalm 101:7|He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.</item>
+		<item>Proverbs 15:13|A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken.</item>
+		<item>Isaiah 43:2|When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee.</item>
+		<item>Isaiah 49:16|Behold, I have graven thee upon the palms of my hands; thy walls are continually before me.</item>
+		<item>Psalm 101:6|Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.</item>
+		<item>Matthew 5:8|Blessed are the pure in heart: for they shall see God.</item>
+		<item>Isaiah 51:12|I, even I, am he that comforteth you: who art thou, that thou shouldest be afraid of a man that shall die, and of the son of man which shall be made as grass.</item>
+		<item>Psalm 50:15|And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.</item>
+		<item>Proverbs 2:6|For the LORD giveth wisdom: out of his mouth cometh knowledge and understanding.</item>
+		<item>Psalm 37:22|For such as be blessed of him shall inherit the earth; and they that be cursed of him shall be cut off.</item>
+		<item>Proverbs 23:26|My son, give me thine heart, and let thine eyes observe my ways.</item>
+		<item>Isaiah 55:6|Seek ye the LORD while he may be found, call ye upon him while he is near.</item>
+		<item>Isaiah 55:8|For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD.</item>
+		<item>Jeremiah 17:14|Heal me, O LORD, and I shall be healed; save me, and I shall be saved: for thou art my praise.</item>
+		<item>John 14:18|I will not leave you comfortless: I will come to you.</item>
+		<item>Jeremiah 17:7|Blessed is the man that trusteth in the LORD, and whose hope the LORD is.</item>
+		<item>Jeremiah 21:8|And unto this people thou shalt say, Thus saith the LORD; Behold, I set before you the way of life, and the way of death.</item>
+		<item>Isaiah 59:1|Behold, the LORD\'s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear</item>
+		<item>Job 11:10|If he cut off, and shut up, or gather together, then who can hinder him?</item>
+		<item>Luke 24:49|And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.</item>
+		<item>II Kings 11:5|And he commanded them, saying, This is the thing that ye shall do</item>
+		<item>Jeremiah 29:12–13|Then shall ye call upon me, and ye shall go and pray unto me, and I will hearken unto you. And ye shall seek me, and find me, when ye shall search for me with all your heart.</item>
+		<item>Psalm 36:12|There are the workers of iniquity fallen: they are cast down, and shall not be able to rise.</item>
+		<item>Psalm 33:12|Blessed is the nation whose God is the LORD; and the people whom he hath chosen for his own inheritance.</item>
+		<item>Jeremiah 29:13|And ye shall seek me, and find me, when ye shall search for me with all your heart.</item>
+		<item>Jeremiah 33:3|Call unto me, and I will answer thee, and show thee great and mighty things, which thou knowest not.</item>
+		<item>Psalm 112:5|A good man sheweth favour, and lendeth: he will guide his affairs with discretion.</item>
+		<item>Job 19:25|For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth.</item>
+		<item>I Corinthians 10:12|Wherefore let him that thinketh he standeth take heed lest he fall.</item>
+		<item>Matthew 24:13|But he that shall endure unto the end, the same shall be saved.</item>
+		<item>Job 33:4|The spirit of God hath made me, and the breath of the Almighty hath given me life.</item>
+		<item>Psalm 119:11|Thy word have I hid in mine heart, that I might not sin against thee.</item>
+		<item>I John 4:10|Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins.</item>
+		<item>James 5:8|Be ye also patient; stablish your hearts: for the coming of the Lord draweth nigh.</item>
+		<item>I John 4:8|He that loveth not knoweth not God; for God is love.</item>
+		<item>Luke 5:32|I came not to call the righteous, but sinners to repentance.</item>
+		<item>John 10:10|The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.</item>
+		<item>John 11:25|Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:</item>
+		<item>John 13:7|Jesus answered and said unto him, What I do thou knowest not now; but thou shalt know hereafter.</item>
+		<item>Psalm 51:17|The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.</item>
+		<item>Proverbs 24:10|If thou faint in the day of adversity, thy strength is small.</item>
+		<item>John 14:13|And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son.</item>
+		<item>John 4:24|God is a Spirit: and they that worship him must worship him in spirit and in truth.</item>
+		<item>Epheasians 6:10|Finally, my brethren, be strong in the Lord, and in the power of his might.</item>
+		<item>John 10:10|The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.</item>
+		<item>John 10:11|I am the good shepherd: the good shepherd giveth his life for the sheep.</item>
+		<item>John 10:9|I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.</item>
+		<item>Numbers 6:24–26|The LORD bless thee, and keep thee:The LORD make his face shine upon thee, and be gracious unto thee:The LORD lift up his countenance upon thee, and give thee peace.</item>
+		<item>Job 8:20|Behold, God will not cast away a perfect man, neither will he help the evil doers.</item>
+		<item>Deuteronomy 11:26|Behold, I set before you this day a blessing and a curse</item>
+		<item>II Corinthians 12:9|And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.</item>
+		<item>John 7:24|Judge not according to the appearance, but judge righteous judgment.</item>
+		<item>John 17:15|I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil.</item>
+		<item>John 8:12|Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.</item>
+		<item>Psalm 97:7|Confounded be all they that serve graven images, that boast themselves of idols: worship him, all ye gods.</item>
+		<item>Psalm 2:11|Serve the LORD with fear, and rejoice with trembling.</item>
+		<item>John 5:41|I receive not honour from men.</item>
+		<item>John 15:17|These things I command you, that ye love one another.</item>
+		<item>II Timothy 2:1|Thou therefore, my son, be strong in the grace that is in Christ Jesus.</item>
+		<item>Isaiah 35:3|Strengthen ye the weak hands, and confirm the feeble knees.</item>
+		<item>Hosea 13:14|I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes.</item>
+		<item>Galatians 3:26|For ye are all the children of God by faith in Christ Jesus.</item>
+		<item>Isaiah 43:15|I am the LORD, your Holy One, the creator of Israel, your King.</item>
+		<item>John 8:32|And ye shall know the truth, and the truth shall make you free.</item>
+		<item>Proverbs 22:8|He that soweth iniquity shall reap vanity: and the rod of his anger shall fail.</item>
+		<item>Joshua 1:5|… I will not fail thee, nor forsake thee.</item>
+		<item>Proverbs 3:12|For whom the LORD loveth he correcteth; even as a father the son in whom he delighteth.</item>
+		<item>Jeremiah 7:8|Behold, ye trust in lying words, that cannot profit.</item>
+		<item>Lamentations 3:26|It is good that a man should both hope and quietly wait for the salvation of the LORD.</item>
+		<item>Psalm 84:5|Blessed is the man whose strength is in thee; in whose heart are the ways of them.</item>
+		<item>Mark 14:38|Watch ye and pray, lest ye enter into temptation. The spirit truly is ready, but the flesh is weak.</item>
+		<item>Romans 12:12|Rejoicing in hope; patient in tribulation; continuing instant in prayer.</item>
+		<item>Matthew 8:7|And Jesus saith unto him, I will come and heal him.</item>
+		<item>Matthew 10:33|But whosoever shall deny me before men, him will I also deny before my Father which is in heaven.</item>
+		<item>Matthew 10:31|Fear ye not therefore, ye are of more value than many sparrows.</item>
+		<item>Matthew 10:32|Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven.</item>
+		<item>Luke 18:27|And he said, The things which are impossible with men are possible with God.</item>
+		<item>Isaiah 48:22|There is no peace, saith the LORD, unto the wicked.</item>
+		<item>Psalm 25:14|The secret of the LORD is with them that fear him; and he will shew them his covenant.</item>
+		<item>Matthew 18:11|For the Son of man is come to save that which was lost.</item>
+		<item>Psalm 34:17|The righteous cry, and the LORD heareth, and delivereth them out of all their troubles.</item>
+		<item>Luke 22:40|And when he was at the place, he said unto them, Pray that ye enter not into temptation.</item>
+		<item>Romans 5:8|But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.</item>
+		<item>Isaiah 26:7|The way of the just is uprightness: thou, most upright, dost weigh the path of the just.</item>
+		<item>Job 5:18|For he maketh sore, and bindeth up: he woundeth, and his hands make whole.</item>
+		<item>Job 5:10|Who giveth rain upon the earth, and sendeth waters upon the fields:</item>
+		<item>Isaiah 42:18|Hear, ye deaf; and look, ye blind, that ye may see.</item>
+		<item>Matthew 16:26|For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?</item>
+		<item>Matthew 21:22|And all things, whatsoever ye shall ask in prayer, believing, ye shall receive.</item>
+		<item>Matthew 22:29|He answered and said, I will not: but afterward he repented, and went.</item>
+		<item>Matthew 5:48|Be ye therefore perfect, even as your Father which is in heaven is perfect.</item>
+		<item>Psalm 147:7|Sing unto the LORD with thanksgiving; sing praise upon the harp unto our God:</item>
+		<item>I Corinthians 16:14|Let all your things be done with charity.</item>
+		<item>Psalms 103:14|For he knoweth our frame; he remembereth that we are dust.</item>
+		<item>Psalm 126:5|They that sow in tears shall reap in joy.</item>
+		<item>Job 15:11|Are the consolations of God small with thee?</item>
+		<item>Psalms 118:8|It is better to trust in the LORD than to put confidence in man.</item>
+		<item>Isaiah 50:8|He is near that justifieth me; who will contend with me? let us stand together: who is mine adversary? let him come near to me.</item>
+		<item>Psalms 119:105|Thy word is a lamp unto my feet, and a light unto my path.</item>
+		<item>Psalms 139:23–24|Search me, O God, and know my heart: try me, and know my thoughts: And see if there be any wicked way in me, and lead me in the way everlasting.</item>
+		<item>Psalms 18:32|It is God that girdeth me with strength, and maketh my way perfect.</item>
+		<item>II Corinthians 2:8|Wherefore I beseech you that ye would confirm your love toward him.</item>
+		<item>Luke 21:33|Heaven and earth shall pass away: but my words shall not pass away.</item>
+		<item>I Corinthians 16:13|Watch ye, stand fast in the faith, quit you like men, be strong.</item>
+		<item>Jeremiah 7:8|Behold, ye trust in lying words, that cannot profit.</item>
+		<item>Luke 14:34|Salt is good: but if the salt have lost his savour, wherewith shall it be seasoned?</item>
+		<item>Matthew 5:8|Blessed are the pure in heart: for they shall see God.</item>
+		<item>Matthew 6:33|But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.</item>
+		<item>Matthew 5:9|Blessed are the peacemakers: for they shall be called the children of God.</item>
+		<item>John 14:13,14|And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son. If ye shall ask any thing in my name, I will do it.</item>
+		<item>Matthew 28:20|Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you always, even unto the end of the world. Amen.</item>
+		<item>Proverbs 10:22|The blessing of the LORD, it maketh rich, and he addeth no sorrow with it.</item>
+		<item>Proverbs 14:1|Every wise woman buildeth her house: but the foolish plucketh it down with her hands.</item>
+		<item>I Corinthians 16:9|For a great door and effectual is opened unto me, and there are many adversaries.</item>
+		<item>Psalm 23:4|Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.</item>
+		<item>I Peter 5:6|Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time</item>
+		<item>Romans 8:32|He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?</item>
+		<item>Psalm 28:7|The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.</item>
+		<item>Mark 11:24|Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them.</item>
+		<item>Hebrews 2:18|For in that he himself hath suffered being tempted, he is able to succour them that are tempted.</item>
+		<item>Matthew 7:7–8|Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.</item>
+		<item>James 4:8|Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded.</item>
+		<item>John 8:12|Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.</item>
+		<item>Proverbs 14:12|There is a way which seemeth right unto a man, but the end thereof are the ways of death.</item>
+		<item>Psalms 34:13|Keep thy tongue from evil, and thy lips from speaking guile.</item>
+		<item>Judas 24|Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy.</item>
+		<item>James 5:16|Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.</item>
+		<item>Philippians 4:7|And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.</item>
+		<item>John 15:7|If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.</item>
+		<item>1 Corinthians 10:13|There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.</item>
+		<item>Psalm 34:7|The angel of the LORD encampeth round about them that fear him, and delivereth them.</item>
+		<item>Psalm 34:8|O taste and see that the LORD is good: blessed is the man that trusteth in him.</item>
+		<item>Psalm 37:16|A little that a righteous man hath is better than the riches of many wicked.</item>
+		<item>Psalms 37:23|The steps of a good man are ordered by the LORD: and he delighteth in his way.</item>
+		<item>Psalm 37:5|Commit thy way unto the LORD; trust also in him; and he shall bring it to pass.</item>
+		<item>Psalm 40:1|I waited patiently for the LORD; and he inclined unto me, and heard my cry.</item>
+		<item>Psalm 42:1|As the hart panteth after the water brooks, so panteth my soul after thee, O God.</item>
+		<item>Psalms 46:1|God is our refuge and strength, a very present help in trouble.</item>
+		<item>Psalms 46:10|Be still, and know that I am God</item>
+		<item>Psalm 46:11|The LORD of hosts is with us; the God of Jacob is our refuge.</item>
+		<item>Psalms 51:10|Create in me a clean heart, O God; and renew a right spirit within me.</item>
+		<item>Psalm 91:1|He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.</item>
+		<item>Psalm 91:10–11|There shall no evil befall thee, neither shall any plague come nigh thy dwelling. For he shall give his angels charge over thee, to keep thee in all thy ways.</item>
+		<item>Psalm 91:2|I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust.</item>
+		<item>Psalm 91:7|A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.</item>
+		<item>Zephaniah 3:17|The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.</item>
     </string-array>
 
     <string-array name="situations_array">
-        <item>anxious|&#8230;  anxious e impatient</item>
+        <item>anxious|&#8230;  anxious and impatient</item>
         <item>worried_money|&#8230;  worried with money</item>
         <item>afraid|&#8230;  afraid</item>
         <item>alone|&#8230;  alone</item>
@@ -279,757 +315,871 @@
         <item>thankful|&#8230;  thankful for God\'s blessings</item>        
     </string-array>
     <string-array name="anxious_array">
-        <item>Psalm 37:3-5|
-	          3. Trust in the Lord, and do good; Dwell in the land, and feed on His faithfulness. \n
-			  4. Delight yourself also in the Lord, And He shall give you the desires of your heart. \n
-			  5 Commit your way to the Lord, Trust also in Him, And He shall bring it to pass.</item>
-        <item>Mateus 6:25-34|
-			    25. Por isso vos digo: Não andeis cuidadosos quanto à vossa vida, pelo que haveis de comer ou pelo que haveis de beber; nem quanto ao vosso corpo, pelo que haveis de vestir. Não é a vida mais do que o mantimento, e o corpo mais do que o vestuário?\n
-				26. Olhai para as aves do céu, que nem semeiam, nem segam, nem ajuntam em celeiros; e vosso Pai celestial as alimenta. Não tendes vós muito mais valor do que elas?\n
-				27. E qual de vós poderá, com todos os seus cuidados, acrescentar um côvado à sua estatura?\n
-				28. E, quanto ao vestuário, por que andais solícitos? Olhai para os lírios do campo, como eles crescem; não trabalham nem fiam;\n
-				29. E eu vos digo que nem mesmo Salomão, em toda a sua glória, se vestiu como qualquer deles.\n
-				30. Pois, se Deus assim veste a erva do campo, que hoje existe, e amanhã é lançada no forno, não vos vestirá muito mais a vós, homens de pouca fé?\n
-				31. Não andeis, pois, inquietos, dizendo: Que comeremos, ou que beberemos, ou com que nos vestiremos?\n
-				32. (Porque todas estas coisas os gentios procuram). De certo vosso Pai celestial bem sabe que necessitais de todas estas coisas;\n
-				33. Mas, buscai primeiro o reino de Deus, e a sua justiça, e todas estas coisas vos serão acrescentadas.\n
-				34. Não vos inquieteis, pois, pelo dia amanhã, porque o dia de amanhã cuidará de si mesmo. Basta a cada dia o seu mal.</item>
-        <item>Romanos 5:3-5|
-		      3. E não somente isto, mas também nos gloriamos nas tribulações; sabendo que a tribulação produz a paciência,\n
-				4. E a paciência a experiência, e a experiência a esperança.\n
-				5. E a esperança não traz confusão, porquanto o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado.</item>
-        <item>Filipenses 4:6-7|
-		    	6. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos sentimentos em Cristo Jesus.\n
-				7. Quanto ao mais, irmãos, tudo o que é verdadeiro, tudo o que é honesto, tudo o que é justo, tudo o que é puro, tudo o que é amável, tudo o que é de boa fama, se há alguma virtude, e se há algum louvor, nisso pensai. </item>
-        <item>Tiago 5:7-11|
-		    7. Sede pois, irmãos, pacientes até à vinda do Senhor. Eis que o lavrador espera o precioso fruto da terra, aguardando-o com paciência, até que receba a chuva temporã e serôdia.\n
-			8. Sede vós também pacientes, fortalecei os vossos corações; porque já a vinda do Senhor está próxima.\n
-			9. Irmãos, não vos queixeis uns contra os outros, para que não sejais condenados. Eis que o juiz está à porta.\n
-			10. Meus irmãos, tomai por exemplo de aflição e paciência os profetas que falaram em nome do Senhor.\n
-			11. Eis que temos por bem-aventurados os que sofreram. Ouvistes qual foi a paciência de Jó, e vistes o fim que o Senhor lhe deu; porque o Senhor é muito misericordioso e piedoso. </item>
-        <item> Pedro 5:6-7|
-		    6. Humilhai-vos, pois, debaixo da potente mão de Deus, para que a seu tempo vos exalte; \n
-			7. Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós. </item>
+        <item>
+            Psalm 37:3-5|
+				3. Trust in the Lord, and do good; Dwell in the land, and feed on His faithfulness. \n
+				4. Delight yourself also in the Lord, And He shall give you the desires of your heart. \n
+				5. Commit your way to the Lord, Trust also in Him, And He shall bring it to pass.
+		</item>
+        <item>
+            Matthew 6:25-34|
+			    25. Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?\n
+				26. Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?\n
+				27. Which of you by taking thought can add one cubit unto his stature?\n
+				28. And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin:\n
+				29. And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these.\n
+				30. Wherefore, if God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, shall he not much more clothe you, O ye of little faith?\n
+				31. Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?\n
+				32. (For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things.\n
+				33. But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.\n
+				34. Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.
+		</item>
+        <item>
+            Romans 5:3-5|
+				3. And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;\n
+				4. And patience, experience; and experience, hope:\n
+				5. And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
+		</item>
+        <item>
+            Philippians 4:6-7|
+				6. Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.\n
+				7. And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
+ 		</item>
+        <item>
+            James 5:7-11|
+				7. Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain.\n
+ 				8. Be ye also patient; stablish your hearts: for the coming of the Lord draweth nigh.\n
+ 				9. Grudge not one against another, brethren, lest ye be condemned: behold, the judge standeth before the door.\n
+				10. Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience.\n
+				11. Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy. 
+		</item>
+        <item>
+            I Peter 5:6-7|
+		     	6. Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:\n
+ 				7. Casting all your care upon him; for he careth for you.
+		</item>
     </string-array>
     <string-array name="worried_money_array">
-        <item>Eclesiastes 5:10|
-	        10. Quem amar o dinheiro jamais dele se fartará; e quem amar a abundância nunca se fartará da renda; também isto é vaidade.</item>
-        <item>Mateus 6:19-21|
-	        19. Não ajunteis tesouros na terra, onde a traça e a ferrugem tudo consomem, e onde os ladrões minam e roubam; \n
-			20. Mas ajuntai tesouros no céu, onde nem a traça nem a ferrugem consomem, e onde os ladrões não minam nem roubam. \n
-			21. Porque onde estiver o vosso tesouro, aí estará também o vosso coração. </item>
-        <item>I Timóteo 6:6-10|
-	        6. Mas é grande ganho a piedade com contentamento. \n
-			7. Porque nada trouxemos para este mundo, e manifesto é que nada podemos levar dele. \n
-			8. Tendo, porém, sustento, e com que nos cobrirmos, estejamos com isso contentes. \n
-			9. Mas os que querem ser ricos caem em tentação, e em laço, e em muitas concupiscências loucas e nocivas, que submergem os homens na perdição e ruína. \n
-			10. Porque o amor ao dinheiro é a raiz de toda a espécie de males; e nessa cobiça alguns se desviaram da fé, e se traspassaram a si mesmos com muitas dores.
+        <item>
+            Eccleasiastes 5:10|
+	        	10. He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity.
         </item>
-        <item>Hebreus 13:5-6|
-        	5. Sejam vossos costumes sem avareza, contentando-vos com o que tendes; porque ele disse: Não te deixarei, nem te desampararei. \n
-			6. E assim com confiança ousemos dizer: O Senhor é o meu ajudador, e não temerei O que me possa fazer o homem. 
+        <item>
+            Matthew 6:19-21|
+		        19. Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal: \n
+				20. But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal: \n
+				21. For where your treasure is, there will your heart be also. 
+		</item>
+        <item>
+            I Timothy 6:6-10|
+				6. But godliness with contentment is great gain.\n
+				7. For we brought nothing into this world, and it is certain we can carry nothing out.\n
+				8. And having food and raiment let us be therewith content.\n
+				9. But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition.\n
+				10. For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
+        </item>
+        <item>
+            Hebrews 13:5-6|
+				5. Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.\n
+				6. So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me.
         </item>
     </string-array>
     <string-array name="afraid_array">
-        <item>Salmo 4:8|
-           	8. Em paz também me deitarei e dormirei, porque só tu, SENHOR, me fazes habitar em segurança.  
+        <item>
+            Psalm 4:8|
+           		8. I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety.
         </item>
-        <item>Isaías 41:13|
-            13. Porque eu, o SENHOR teu Deus, te tomo pela tua mão direita; e te digo: Não temas, eu te ajudo.
+        <item>
+            Isaiah 41:13|
+            	13. For I the LORD thy God will hold thy right hand, saying unto thee, Fear not; I will help thee.
+        </item>
+        <item>
+            Luke 8:22-25|
+            	22. Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth.\n
+ 				23. But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled with water, and were in jeopardy.\n
+ 				24. And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm.\n
+ 				25. And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him.
             </item>
-        <item>Lucas 8:22-25|
-            22. E aconteceu que, num daqueles dias, entrou num barco com seus discípulos, e disse-lhes: Passemos para o outro lado do lago. E partiram.\n
-			23. E, navegando eles, adormeceu; e sobreveio uma tempestade de vento no lago, e enchiam-se de água, estando em perigo.\n
-			24. E, chegando-se a ele, o despertaram, dizendo: Mestre, Mestre, perecemos. E ele, levantando-se, repreendeu o vento e a fúria da água; e cessaram, e fez-se bonança.\n
-			25. E disse-lhes: Onde está a vossa fé? E eles, temendo, maravilharam-se, dizendo uns aos outros: Quem é este, que até aos ventos e à água manda, e lhe obedecem?
+        <item>
+            John 14:27|
+            	27. Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.
             </item>
-        <item>João 14:27|
-            27. Deixo-vos a paz, a minha paz vos dou; não vo-la dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorize.
+        <item>
+            John 16:33|
+            	33. These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.
             </item>
-        <item>João 16:33|
-            33. Tenho-vos dito isto, para que em mim tenhais paz; no mundo tereis aflições, mas tende bom ânimo, eu venci o mundo.
+        <item>
+            Romans 8:1|
+             	1. There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit. 
             </item>
-        <item>Romanos 8:1|
-            1. Portanto, agora nenhuma condenação há para os que estão em Cristo Jesus, que não andam segundo a carne, mas segundo o Espírito. 
-            </item>
-        <item>Romanos 8:31-39|
-            31. Que diremos, pois, a estas coisas? Se Deus é por nós, quem será contra nós?\n
-			32. Aquele que nem mesmo a seu próprio Filho poupou, antes o entregou por todos nós, como nos não dará também com ele todas as coisas?\n
-			33. Quem intentará acusação contra os escolhidos de Deus? É Deus quem os justifica.\n
-			34. Quem é que condena? Pois é Cristo quem morreu, ou antes quem ressuscitou dentre os mortos, o qual está à direita de Deus, e também intercede por nós.\n
-			35. Quem nos separará do amor de Cristo? A tribulação, ou a angústia, ou a perseguição, ou a fome, ou a nudez, ou o perigo, ou a espada?\n
-			36. Como está escrito: Por amor de ti somos entregues à morte todo o dia; Somos reputados como ovelhas para o matadouro.\n
-			37. Mas em todas estas coisas somos mais do que vencedores, por aquele que nos amou.\n
-			38. Porque estou certo de que, nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir,\n
-			39. Nem a altura, nem a profundidade, nem alguma outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor.
+        <item>
+            Romans 8:31-39|
+				31. What shall we then say to these things? If God be for us, who can be against us?\n
+				32. He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?\n
+				33. Who shall lay any thing to the charge of God\'s elect? It is God that justifieth.\n
+				34. Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.\n
+				35. Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?\n
+				36. As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.\n
+				37. Nay, in all these things we are more than conquerors through him that loved us.\n
+				38. For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,\n
+				39. Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
             </item>
     </string-array>
     <string-array name="alone_array">
-        <item>Salmo 10:12-14|
-            12. Levanta-te, SENHOR. O Deus, levanta a tua mão; não te esqueças dos humildes.\n
-			13. Por que blasfema o ímpio de Deus? dizendo no seu coração: Tu não o esquadrinharás?\n
-			14. Tu o viste, porque atentas para o trabalho e enfado, para o retribuir com tuas mãos; a ti o pobre se encomenda; tu és o auxílio do órfão. 
+    	<item>
+            Psalm 10:12-14|
+            	12. Arise, O LORD; O God, lift up thine hand: forget not the humble.\n
+				13. Wherefore doth the wicked contemn God? he hath said in his heart, Thou wilt not require it.\n
+				14. Thou hast seen it; for thou beholdest mischief and spite, to requite it with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless.
+        </item>
+        <item>
+            Psalm 25:16-18|
+            	16. Turn thee unto me, and have mercy upon me; for I am desolate and afflicted.\n
+ 				17. The troubles of my heart are enlarged: O bring thou me out of my distresses.\n
+				18. Look upon mine affliction and my pain; and forgive all my sins.
+		</item>
+        <item>
+            Psalm 68:4-6|
+            	4. Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name JAH, and rejoice before him.\n
+ 				5. A father of the fatherless, and a judge of the widows, is God in his holy habitation.\n
+ 				6. God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry land. 
+        </item>
+        <item>
+            Psalm 146|
+             	1. Praise ye the LORD. Praise the LORD, O my soul.\n
+ 				2. While I live will I praise the LORD: I will sing praises unto my God while I have any being.\n
+ 				3. Put not your trust in princes, nor in the son of man, in whom there is no help.\n
+ 				4. His breath goeth forth, he returneth to his earth; in that very day his thoughts perish.\n
+ 				5. Happy is he that hath the God of Jacob for his help, whose hope is in the LORD his God:\n
+ 				6. Which made heaven, and earth, the sea, and all that therein is: which keepeth truth for ever:\n
+ 				7. Which executeth judgment for the oppressed: which giveth food to the hungry. The LORD looseth the prisoners:\n
+ 				8. The LORD openeth the eyes of the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:\n
+ 				9. The LORD preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.\n
+ 				10. The LORD shall reign for ever, even thy God, O Zion, unto all generations. Praise ye the LORD. 
+        </item>
+        <item>
+            Matthew 28:20|
+            	20. Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you always, even unto the end of the world. Amen.
+        </item>
+        <item>
+            John 14:18-19|
+             	18. I will not leave you comfortless: I will come to you.\n
+ 				19. Yet a little while, and the world seeth me no more; but ye see me: because I live, ye shall live also.
             </item>
-        <item>Salmo 25:16-18|
-            16. Olha para mim, e tem piedade de mim, porque estou solitário e aflito.\n
-			17. As ânsias do meu coração se têm multiplicado; tira-me dos meus apertos.\n
-			18. Olha para a minha aflição e para a minha dor, e perdoa todos os meus pecados. 
-			</item>
-        <item>Salmo 68:4-6|
-            4. Cantai a Deus, cantai louvores ao seu nome; louvai aquele que vai montado sobre os céus, pois o seu nome é SENHOR, e exultai diante dele.\n
-			5. Pai de órfãos e juiz de viúvas é Deus, no seu lugar santo.\n
-			6. Deus faz que o solitário viva em família; liberta aqueles que estão presos em grilhões; mas os rebeldes habitam em terra seca. 
-            </item>
-        <item>Salmo 146|
-            1. Louvai ao SENHOR. O minha alma, louva ao SENHOR.\n
-			2. Louvarei ao SENHOR durante a minha vida; cantarei louvores ao meu Deus enquanto eu for vivo.\n
-			3. Não confieis em príncipes, nem em filho de homem, em quem não há salvação.\n
-			4. Sai-lhe o espírito, volta para a terra; naquele mesmo dia perecem os seus pensamentos.\n
-			5. Bem-aventurado aquele que tem o Deus de Jacó por seu auxílio, e cuja esperança está posta no SENHOR seu Deus.\n
-			6. O que fez os céus e a terra, o mar e tudo quanto há neles, e o que guarda a verdade para sempre;\n
-			7. O que faz justiça aos oprimidos, o que dá pão aos famintos. O SENHOR solta os encarcerados.\n
-			8. O SENHOR abre os olhos aos cegos; o SENHOR levanta os abatidos; o SENHOR ama os justos;\n
-			9. O SENHOR guarda os estrangeiros; sustém o órfão e a viúva, mas transtorna o caminho dos ímpios.\n
-			10. O SENHOR reinará eternamente; o teu Deus, ó Sião, de geração em geração. Louvai ao SENHOR. 
-            </item>
-        <item>Mateus 28:20|
-            20. Ensinando-os a guardar todas as coisas que eu vos tenho mandado; e eis que eu estou convosco todos os dias, até a consumação dos séculos. Amém.
-            </item>
-        <item>João 14:18-19|
-            18. Não vos deixarei órfãos; voltarei para vós.\n
-			19. Ainda um pouco, e o mundo não me verá mais, mas vós me vereis; porque eu vivo, e vós vivereis.
-            </item>
-        <item>I Pedro 5:7|
-            7. Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.
-            </item>
+        <item>
+            I Peter 5:7|
+             	7. Casting all your care upon him; for he careth for you.
+        </item>
     </string-array>
     <string-array name="suffering_array">
-        <item>Mateus 5:4|
-            4. Bem-aventurados os que choram, porque eles serão consolados; 
+        <item>
+            Matthew 5:4|
+            	4. Blessed are they that mourn: for they shall be comforted. 
+        </item>
+        <item>
+            Romans 8:31-39|
+				31. What shall we then say to these things? If God be for us, who can be against us?\n
+ 				32. He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?\n
+ 				33. Who shall lay any thing to the charge of God\'s elect? It is God that justifieth.\n
+ 				34. Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.\n
+ 				35. Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?\n
+ 				36. As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.\n
+ 				37. Nay, in all these things we are more than conquerors through him that loved us.\n
+ 				38. For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,\n
+ 				39. Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
+        </item>
+        <item>
+            II Corinthians 1:3-6|
+				3. Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;\n
+ 				4. Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.\n
+ 				5. For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ.\n
+ 				6. And whether we be afflicted, it is for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, it is for your consolation and salvation.
+           </item>
+        <item>
+            II Corinthians 4:16-18|
+            	16. For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day.\n
+ 				17. For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory;\n
+				18. While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.
             </item>
-        <item>Romanos 8:31-39|
-            31. Que diremos, pois, a estas coisas? Se Deus é por nós, quem será contra nós?\n
-			32. Aquele que nem mesmo a seu próprio Filho poupou, antes o entregou por todos nós, como nos não dará também com ele todas as coisas?\n
-			33. Quem intentará acusação contra os escolhidos de Deus? É Deus quem os justifica.\n
-			34. Quem é que condena? Pois é Cristo quem morreu, ou antes quem ressuscitou dentre os mortos, o qual está à direita de Deus, e também intercede por nós.\n
-			35. Quem nos separará do amor de Cristo? A tribulação, ou a angústia, ou a perseguição, ou a fome, ou a nudez, ou o perigo, ou a espada?\n
-			36. Como está escrito: Por amor de ti somos entregues à morte todo o dia; Somos reputados como ovelhas para o matadouro.\n
-			37. Mas em todas estas coisas somos mais do que vencedores, por aquele que nos amou.\n
-			38. Porque estou certo de que, nem a morte, nem a vida, nem os anjos, nem os principados, nem as potestades, nem o presente, nem o porvir,\n
-			39. Nem a altura, nem a profundidade, nem alguma outra criatura nos poderá separar do amor de Deus, que está em Cristo Jesus nosso Senhor.
+        <item>
+            II Corinthians 12:7-10|
+				7. And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.\n
+				8. For this thing I besought the Lord thrice, that it might depart from me.\n
+				9. And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.\n
+				10. Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ\'s sake: for when I am weak, then am I strong.
             </item>
-        <item>II Coríntios 1:3-6|
-            3. Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e o Deus de toda a consolação;\n
-			4. Que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em alguma tribulação, com a consolação com que nós mesmos somos consolados por Deus.\n
-			5. Porque, como as aflições de Cristo são abundantes em nós, assim também é abundante a nossa consolação por meio de Cristo.\n
-			6. Mas, se somos atribulados, é para vossa consolação e salvação é; ou, se somos consolados, para vossa consolação e salvação é, a qual se opera suportando com paciência as mesmas aflições que nós também padecemos;
+        <item>
+            James 1:2-4|
+             	2. My brethren, count it all joy when ye fall into divers temptations;\n
+ 				3. Knowing this, that the trying of your faith worketh patience.\n
+ 				4. But let patience have her perfect work, that ye may be perfect and entire, wanting nothing.
             </item>
-        <item>II Coríntios 4:16-18|
-            16. Por isso não desfalecemos; mas, ainda que o nosso homem exterior se corrompa, o interior, contudo, se renova de dia em dia.\n
-			17. Porque a nossa leve e momentânea tribulação produz para nós um peso eterno de glória mui excelente;\n
-			18. Não atentando nós nas coisas que se vêem, mas nas que se não vêem; porque as que se vêem são temporais, e as que se não vêem são eternas
-            </item>
-        <item>II Coríntios 12:7-10|
-            7. E, para que não me exaltasse pela excelência das revelações, foi-me dado um espinho na carne, a saber, um mensageiro de Satanás para me esbofetear, a fim de não me exaltar.\n
-			8. Acerca do qual três vezes orei ao Senhor para que se desviasse de mim.\n
-			9. E disse-me: A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza. De boa vontade, pois, me gloriarei nas minhas fraquezas, para que em mim habite o poder de Cristo.\n
-			10. Por isso sinto prazer nas fraquezas, nas injúrias, nas necessidades, nas perseguições, nas angústias por amor de Cristo. Porque quando estou fraco então sou forte. 
-            </item>
-        <item>Tiago 1:2-4|
-            2. Meus irmãos, tende grande gozo quando cairdes em várias tentações;\n
-			3. Sabendo que a prova da vossa fé opera a paciência.\n
-			4. Tenha, porém, a paciência a sua obra perfeita, para que sejais perfeitos e completos, sem faltar em coisa alguma.
-            </item>
-        <item>Apocalipse 2:10|
-            10. Nada temas das coisas que hás de padecer. Eis que o diabo lançará alguns de vós na prisão, para que sejais tentados; e tereis uma tribulação de dez dias. Sê fiel até à morte, e dar-te-ei a coroa da vida.
+        <item>
+            Revelation 2:10|
+            	10. Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.
             </item>
     </string-array>
     <string-array name="sick_array">
-        <item>Salmo 41:1-3|
-            1. Bem-aventurado é aquele que atende ao pobre; o SENHOR o livrará no dia do mal.\n
-			2. O SENHOR o livrará, e o conservará em vida; será abençoado na terra, e tu não o entregarás à vontade de seus inimigos.\n
-			3. O SENHOR o sustentará no leito da enfermidade; tu o restaurarás da sua cama de doença. 
+        <item>
+            Psalm 41:1-3|
+             	1. Blessed is he that considereth the poor: the LORD will deliver him in time of trouble.\n
+ 				2. The LORD will preserve him, and keep him alive; and he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies.\n
+ 				3. The LORD will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness.
             </item>
-        <item>Salmo 68:19-20|
-            19. Bendito seja o Senhor, que de dia em dia nos carrega de benefícios; o Deus que é a nossa salvação. (Selá.)\n
-			20. O nosso Deus é o Deus da salvação; e a DEUS, o Senhor, pertencem os livramentos da morte.
+        <item>
+            Psalm 68:19-20|
+             	19. Blessed be the Lord, who daily loadeth us with benefits, even the God of our salvation. Selah.\n
+ 				20. He that is our God is the God of salvation; and unto GOD the Lord belong the issues from death.
             </item>
-        <item>Salmo 103:1-5|
-            1. Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo nome.\n
-			2. Bendize, ó minha alma, ao SENHOR, e não te esqueças de nenhum de seus benefícios.\n
-			3. Ele é o que perdoa todas as tuas iniqüidades, que sara todas as tuas enfermidades,\n
-			4. Que redime a tua vida da perdição; que te coroa de benignidade e de misericórdia,\n
-			5. Que farta a tua boca de bens, de sorte que a tua mocidade se renova como a da águia. 
+        <item>
+            Psalm 103:1-5|
+             	1. Bless the LORD, O my soul: and all that is within me, bless his holy name.\n
+ 				2. Bless the LORD, O my soul, and forget not all his benefits:\n
+				3. Who forgiveth all thine iniquities; who healeth all thy diseases;\n
+				4. Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;\n
+				5. Who satisfieth thy mouth with good things; so that thy youth is renewed like the eagle\'s.
             </item>
-        <item>Salmo 146|
-            1. Louvai ao SENHOR. O minha alma, louva ao SENHOR.\n
-			2. Louvarei ao SENHOR durante a minha vida; cantarei louvores ao meu Deus enquanto eu for vivo.\n
-			3. Não confieis em príncipes, nem em filho de homem, em quem não há salvação.\n
-			4. Sai-lhe o espírito, volta para a terra; naquele mesmo dia perecem os seus pensamentos.\n
-			5. Bem-aventurado aquele que tem o Deus de Jacó por seu auxílio, e cuja esperança está posta no SENHOR seu Deus.\n
-			6. O que fez os céus e a terra, o mar e tudo quanto há neles, e o que guarda a verdade para sempre;\n
-			7. O que faz justiça aos oprimidos, o que dá pão aos famintos. O SENHOR solta os encarcerados.\n
-			8. O SENHOR abre os olhos aos cegos; o SENHOR levanta os abatidos; o SENHOR ama os justos;\n
-			9. O SENHOR guarda os estrangeiros; sustém o órfão e a viúva, mas transtorna o caminho dos ímpios.\n
-			10. O SENHOR reinará eternamente; o teu Deus, ó Sião, de geração em geração. Louvai ao SENHOR.
+        <item>
+            Psalm 146|
+				1. Praise ye the LORD. Praise the LORD, O my soul.\n
+				2. While I live will I praise the LORD: I will sing praises unto my God while I have any being.\n
+				3. Put not your trust in princes, nor in the son of man, in whom there is no help.\n
+				4. His breath goeth forth, he returneth to his earth; in that very day his thoughts perish.\n
+				5. Happy is he that hath the God of Jacob for his help, whose hope is in the LORD his God:\n
+				6. Which made heaven, and earth, the sea, and all that therein is: which keepeth truth for ever:\n
+				7. Which executeth judgment for the oppressed: which giveth food to the hungry. The LORD looseth the prisoners:\n
+				8. The LORD openeth the eyes of the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:\n
+				9. The LORD preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.\n
+				10. The LORD shall reign for ever, even thy God, O Zion, unto all generations. Praise ye the LORD.
             </item>
-        <item>Isaías 54:10|
-            10. Porque os montes se retirarão, e os outeiros serão abalados; porém a minha benignidade não se apartará de ti, e a aliança da minha paz não mudará, diz o SENHOR que se compadece de ti. 
+        <item>
+            Isaiah 54:10|
+            	10. For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the LORD that hath mercy on thee. 
             </item>
-        <item>Romanos 5:1-5|
-            1. Tendo sido, pois, justificados pela fé, temos paz com Deus, por nosso Senhor Jesus Cristo;\n
-			2. Pelo qual também temos entrada pela fé a esta graça, na qual estamos firmes, e nos gloriamos na esperança da glória de Deus.\n
-			3. E não somente isto, mas também nos gloriamos nas tribulações; sabendo que a tribulação produz a paciência,\n
-			4. E a paciência a experiência, e a experiência a esperança.\n
-			5. E a esperança não traz confusão, porquanto o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado.
+        <item>
+            Romans 5:1-5|
+            	1. Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:\n
+				2. By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God.\n
+				3. And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;\n
+				4. And patience, experience; and experience, hope:\n
+				5. And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
             </item>
-        <item>Tiago 5:14-15|
-            14. Está alguém entre vós doente? Chame os presbíteros da igreja, e orem sobre ele, ungindo-o com azeite em nome do Senhor;\n
-			15. E a oração da fé salvará o doente, e o Senhor o levantará; e, se houver cometido pecados, ser-lhe-ão perdoados.
+        <item>
+            James 5:14-15|
+            	14. Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:\n
+ 				15. And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him.
             </item>
-        <item>I Pedro 5:10-11|
-            10. E o Deus de toda a graça, que em Cristo Jesus vos chamou à sua eterna glória, depois de haverdes padecido um pouco, ele mesmo vos aperfeiçoará, confirmará, fortificará e fortalecerá.\n
-			11. A ele seja a glória e o poderio para todo o sempre. Amém.
+        <item>
+            I Peter 5:10-11|
+            	10. But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you.\n
+ 				11. To him be glory and dominion for ever and ever. Amen.
             </item>
     </string-array>
     <string-array name="terminal_array">
-        <item>Salmo 23|
-            1. O SENHOR é o meu pastor, nada me faltará.\n
-			2. Deitar-me faz em verdes pastos, guia-me mansamente a águas tranqüilas.\n
-			3. Refrigera a minha alma; guia-me pelas veredas da justiça, por amor do seu nome.\n
-			4. Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam.\n
-			5. Preparas uma mesa perante mim na presença dos meus inimigos, unges a minha cabeça com óleo, o meu cálice transborda.\n
-			6. Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida; e habitarei na casa do SENHOR por longos dias. 
+        <item>
+            Psalm 23|
+	            1. The LORD is my shepherd; I shall not want.\n
+				2. He maketh me to lie down in green pastures: he leadeth me beside the still waters.\n
+				3. He restoreth my soul: he leadeth me in the paths of righteousness for his name\'s sake.\n
+				4. Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.\n
+				5. Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.\n
+				6. Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever. 
             </item>
-        <item>Romanos 8:18-30|
-            18. Porque para mim tenho por certo que as aflições deste tempo presente não são para comparar com a glória que em nós há de ser revelada.\n
-			19. Porque a ardente expectação da criatura espera a manifestação dos filhos de Deus.\n
-			20. Porque a criação ficou sujeita à vaidade, não por sua vontade, mas por causa do que a sujeitou,\n
-			21. Na esperança de que também a mesma criatura será libertada da servidão da corrupção, para a liberdade da glória dos filhos de Deus.\n
-			22. Porque sabemos que toda a criação geme e está juntamente com dores de parto até agora.\n
-			23. E não só ela, mas nós mesmos, que temos as primícias do Espírito, também gememos em nós mesmos, esperando a adoção, a saber, a redenção do nosso corpo.\n
-			24. Porque em esperança fomos salvos. Ora a esperança que se vê não é esperança; porque o que alguém vê como o esperará?\n
-			25. Mas, se esperamos o que não vemos, com paciência o esperamos.\n
-			26. E da mesma maneira também o Espírito ajuda as nossas fraquezas; porque não sabemos o que havemos de pedir como convém, mas o mesmo Espírito intercede por nós com gemidos inexprimíveis.\n
-			27. E aquele que examina os corações sabe qual é a intenção do Espírito; e é ele que segundo Deus intercede pelos santos.\n
-			28. E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito.\n
-			29. Porque os que dantes conheceu também os predestinou para serem conformes à imagem de seu Filho, a fim de que ele seja o primogênito entre muitos irmãos.\n
-			30. E aos que predestinou a estes também chamou; e aos que chamou a estes também justificou; e aos que justificou a estes também glorificou.
+        <item>
+            Romans 8:18-30|
+				18. For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.\n
+ 				19. For the earnest expectation of the creature waiteth for the manifestation of the sons of God.\n
+ 				20. For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,\n
+ 				21. Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God.\n
+ 				22. For we know that the whole creation groaneth and travaileth in pain together until now.\n
+				23. And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body.\n
+				24. For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?\n
+				25. But if we hope for that we see not, then do we with patience wait for it.\n
+				26. Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.\n
+				27. And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.\n
+				28. And we know that all things work together for good to them that love God, to them who are the called according to his purpose.\n
+				29. For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren.\n
+				30. Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.
             </item>
-        <item>II Coríntios 5:1-10|
-            1. Porque sabemos que, se a nossa casa terrestre deste tabernáculo se desfizer, temos de Deus um edifício, uma casa não feita por mãos, eterna, nos céus.\n
-			2. E por isso também gememos, desejando ser revestidos da nossa habitação, que é do céu;\n
-			3. Se, todavia, estando vestidos, não formos achados nus.\n
-			4. Porque também nós, os que estamos neste tabernáculo, gememos carregados; não porque queremos ser despidos, mas revestidos, para que o mortal seja absorvido pela vida.\n
-			5. Ora, quem para isto mesmo nos preparou foi Deus, o qual nos deu também o penhor do Espírito.\n
-			6. Por isso estamos sempre de bom ânimo, sabendo que, enquanto estamos no corpo, vivemos ausentes do Senhor\n
-			7. (Porque andamos por fé, e não por vista).\n
-			8. Mas temos confiança e desejamos antes deixar este corpo, para habitar com o Senhor.\n
-			9. Pois que muito desejamos também ser-lhe agradáveis, quer presentes, quer ausentes.\n
-			10. Porque todos devemos comparecer ante o tribunal de Cristo, para que cada um receba segundo o que tiver feito por meio do corpo, ou bem, ou mal. 
+        <item>
+            II Corinthians 5:1-10|
+				1. For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.\n
+			 	2. For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:\n
+				3. If so be that being clothed we shall not be found naked.\n
+				4. For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.\n
+		 		5. Now he that hath wrought us for the selfsame thing is God, who also hath given unto us the earnest of the Spirit.\n
+			 	6. Therefore we are always confident, knowing that, whilst we are at home in the body, we are absent from the Lord:\n
+			 	7. (For we walk by faith, not by sight:)\n
+			 	8. We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord.\n
+			 	9. Wherefore we labour, that, whether present or absent, we may be accepted of him.\n
+			 	10. For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad. 
             </item>
     </string-array>
     <string-array name="death_array">
-        <item>João 11:25-26|
-            25. Disse-lhe Jesus: Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá;\n
-			26. E todo aquele que vive, e crê em mim, nunca morrerá. Crês tu isto?
+        <item>
+            John 11:25-26|
+				25. Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:\n
+ 				26. And whosoever liveth and believeth in me shall never die. Believest thou this?
             </item>
-        <item>I Coríntios 15:50-58|
-            50. E agora digo isto, irmãos: que a carne e o sangue não podem herdar o reino de Deus, nem a corrupção herdar a incorrupção.\n
-			51. Eis aqui vos digo um mistério: Na verdade, nem todos dormiremos, mas todos seremos transformados;\n
-			52. Num momento, num abrir e fechar de olhos, ante a última trombeta; porque a trombeta soará, e os mortos ressuscitarão incorruptíveis, e nós seremos transformados.\n
-			53. Porque convém que isto que é corruptível se revista da incorruptibilidade, e que isto que é mortal se revista da imortalidade.\n
-			54. E, quando isto que é corruptível se revestir da incorruptibilidade, e isto que é mortal se revestir da imortalidade, então cumprir-se-á a palavra que está escrita: Tragada foi a morte na vitória.\n
-			55. Onde está, ó morte, o teu aguilhão? Onde está, ó inferno, a tua vitória?\n
-			56. Ora, o aguilhão da morte é o pecado, e a força do pecado é a lei.\n
-			57. Mas graças a Deus que nos dá a vitória por nosso Senhor Jesus Cristo.\n
-			58. Portanto, meus amados irmãos, sede firmes e constantes, sempre abundantes na obra do Senhor, sabendo que o vosso trabalho não é vão no Senhor. 
+        <item>
+            I Corinthians 15:50-58|
+	            50. Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption.\n
+				51. Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed,\n
+				52. In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed.\n
+				53. For this corruptible must put on incorruption, and this mortal must put on immortality.\n
+				54. So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory.\n
+				55. O death, where is thy sting? O grave, where is thy victory?\n
+				56. The sting of death is sin; and the strength of sin is the law.\n
+				57. But thanks be to God, which giveth us the victory through our Lord Jesus Christ.\n
+				58. Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord. 
             </item>
-        <item>I Tessalonicenses 4:13-18|
-            13. Não quero, porém, irmãos, que sejais ignorantes acerca dos que já dormem, para que não vos entristeçais, como os demais, que não têm esperança.\n
-			14. Porque, se cremos que Jesus morreu e ressuscitou, assim também aos que em Jesus dormem, Deus os tornará a trazer com ele.\n
-			15. Dizemo-vos, pois, isto, pela palavra do Senhor: que nós, os que ficarmos vivos para a vinda do Senhor, não precederemos os que dormem.\n
-			16. Porque o mesmo Senhor descerá do céu com alarido, e com voz de arcanjo, e com a trombeta de Deus; e os que morreram em Cristo ressuscitarão primeiro.\n
-			17. Depois nós, os que ficarmos vivos, seremos arrebatados juntamente com eles nas nuvens, a encontrar o Senhor nos ares, e assim estaremos sempre com o Senhor.\n
-			18. Portanto, consolai-vos uns aos outros com estas palavras.
+        <item
+            >I Thessalonians 4:13-18|
+				13. But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.\n
+			 	14. For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.\n
+			 	15. For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep.\n
+			 	16. For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:\n
+			 	17. Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.\n
+			 	18. Wherefore comfort one another with these words.
             </item>
     </string-array>
     <string-array name="disaster_array">
-        <item>Jó 1:13-22|
-            13. E sucedeu um dia, em que seus filhos e suas filhas comiam, e bebiam vinho, na casa de seu irmão primogênito,\n
-			14. Que veio um mensageiro a Jó, e lhe disse: Os bois lavravam, e as jumentas pastavam junto a eles;\n
-			15. E deram sobre eles os sabeus, e os tomaram, e aos servos feriram ao fio da espada; e só eu escapei para trazer-te a nova.\n
-			16. Estando este ainda falando, veio outro e disse: Fogo de Deus caiu do céu, e queimou as ovelhas e os servos, e os consumiu, e só eu escapei para trazer-te a nova.\n
-			17. Estando ainda este falando, veio outro, e disse: Ordenando os caldeus três tropas, deram sobre os camelos, e os tomaram, e aos servos feriram ao fio da espada; e só eu escapei para trazer-te a nova.\n
-			18. Estando ainda este falando, veio outro, e disse: Estando teus filhos e tuas filhas comendo e bebendo vinho, em casa de seu irmão primogênito,\n
-			19. Eis que um grande vento sobreveio dalém do deserto, e deu nos quatro cantos da casa, que caiu sobre os jovens, e morreram; e só eu escapei para trazer-te a nova.\n
-			20. Então Jó se levantou, e rasgou o seu manto, e rapou a sua cabeça, e se lançou em terra, e adorou.\n
-			21. E disse: Nu saí do ventre de minha mãe e nu tornarei para lá; o SENHOR o deu, e o SENHOR o tomou: bendito seja o nome do SENHOR.\n
-			22. Em tudo isto Jó não pecou, nem atribuiu a Deus falta alguma.
+        <item>
+            Job 1:13-22|
+           		13. And there was a day when his sons and his daughters were eating and drinking wine in their eldest brother\'s house:\n
+			 	14. And there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them:\n
+			 	15. And the Sabeans fell upon them, and took them away; yea, they have slain the servants with the edge of the sword; and I only am escaped alone to tell thee.\n
+			 	16. While he was yet speaking, there came also another, and said, The fire of God is fallen from heaven, and hath burned up the sheep, and the servants, and consumed them; and I only am escaped alone to tell thee.\n
+				17. While he was yet speaking, there came also another, and said, The Chaldeans made out three bands, and fell upon the camels, and have carried them away, yea, and slain the servants with the edge of the sword; and I only am escaped alone to tell thee.\n
+				18. While he was yet speaking, there came also another, and said, Thy sons and thy daughters were eating and drinking wine in their eldest brother\'s house:\n
+				19. And, behold, there came a great wind from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee.\n
+				20. Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,\n
+				21. And said, Naked came I out of my mother\'s womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.\n
+				22. In all this Job sinned not, nor charged God foolishly.
             </item>
-        <item>Isaías 55:8-9|
-            8. Porque os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos os meus caminhos, diz o SENHOR.\n
-			9. Porque assim como os céus são mais altos do que a terra, assim são os meus caminhos mais altos do que os vossos caminhos, e os meus pensamentos mais altos do que os vossos pensamentos. 
+        <item>
+            Isaiah 55:8-9|
+				 8. For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD.\n
+				 9. For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts. 
             </item>
-        <item>Romanos 8:28|
-            28. E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito. 
+        <item>
+            Romans 8:28|
+           		28. And we know that all things work together for good to them that love God, to them who are the called according to his purpose. 
             </item>
     </string-array>
     <string-array name="travel_array">
-        <item>Salmo 46.1-3|
-            1. Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.\n
-			2. Portanto não temeremos, ainda que a terra se mude, e ainda que os montes se transportem para o meio dos mares.\n
-			3. Ainda que as águas rujam e se perturbem, ainda que os montes se abalem pela sua braveza. (Selá.) 
+        <item>
+            Psalm 46.1-3|
+             	1. God is our refuge and strength, a very present help in trouble.\n
+			 	2. Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;\n
+			 	3. Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof. Selah. 
             </item>
-        <item>Salmo 91.1-6,14-16|
-            1. Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.\n
-			2. Direi do SENHOR: Ele é o meu Deus, o meu refúgio, a minha fortaleza, e nele confiarei.\n
-			3. Porque ele te livrará do laço do passarinheiro, e da peste perniciosa.\n
-			4. Ele te cobrirá com as suas penas, e debaixo das suas asas te confiarás; a sua verdade será o teu escudo e broquel.\n
-			5. Não terás medo do terror de noite nem da seta que voa de dia,\n
-			6. Nem da peste que anda na escuridão, nem da mortandade que assola ao meio-dia.\n
-			14. Porquanto tão encarecidamente me amou, também eu o livrarei; pô-lo-ei em retiro alto, porque conheceu o meu nome.\n
-			15. Ele me invocará, e eu lhe responderei; estarei com ele na angústia; dela o retirarei, e o glorificarei.\n
-			16. Fartá-lo-ei com longura de dias, e lhe mostrarei a minha salvação
+        <item>
+            Psalm 91.1-6,14-16|
+				 1. He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.\n
+				 2. I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust.\n
+				 3. Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence.\n
+				 4. He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.\n
+				 5. Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day;\n
+				 6. Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.\n
+				 14. Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name.\n
+				 15. He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him.\n
+				 16. With long life will I satisfy him, and shew him my salvation.
            </item>
-        <item>Salmo 121|
-            1. Levantarei os meus olhos para os montes, de onde vem o meu socorro.\n
-			2. O meu socorro vem do SENHOR que fez o céu e a terra.\n
-			3. Não deixará vacilar o teu pé; aquele que te guarda não tosquenejará.\n
-			4. Eis que não tosquenejará nem dormirá o guarda de Israel.\n
-			5. O SENHOR é quem te guarda; o SENHOR é a tua sombra à tua direita.\n
-			6. O sol não te molestará de dia nem a lua de noite.\n
-			7. O SENHOR te guardará de todo o mal; guardará a tua alma.\n
-			8. O SENHOR guardará a tua entrada e a tua saída, desde agora e para sempre.
+        <item>
+            Psalm 121|
+				 1. I will lift up mine eyes unto the hills, from whence cometh my help.\n
+				 2. My help cometh from the LORD, which made heaven and earth.\n
+				 3. He will not suffer thy foot to be moved: he that keepeth thee will not slumber.\n
+				 4. Behold, he that keepeth Israel shall neither slumber nor sleep.\n
+				 5. The LORD is thy keeper: the LORD is thy shade upon thy right hand.\n
+				 6. The sun shall not smite thee by day, nor the moon by night.\n
+				 7. The LORD shall preserve thee from all evil: he shall preserve thy soul.\n
+				 8. The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.
             </item>
     </string-array>
     <string-array name="temptation_array">
-        <item>Romanos 12:1-2|
-            1. Rogo-vos, pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional.\n
-			2. E não sede conformados com este mundo, mas sede transformados pela renovação do vosso entendimento, para que experimenteis qual seja a boa, agradável, e perfeita vontade de Deus. 
+        <item>
+            Romans 12:1-2|
+             	1. I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.\n
+ 				2. And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God. 
             </item>
-        <item>I Coríntios 10:12-13|
-            12. Aquele, pois, que cuida estar em pé, olhe não caia.\n
-			13. Não veio sobre vós tentação, senão humana; mas fiel é Deus, que não vos deixará tentar acima do que podeis, antes com a tentação dará também o escape, para que a possais suportar. 
+        <item>
+            I Corinthians 10:12-13|
+            	12. Aquele, pois, que cuida estar em pé, olhe não caia.\n
+				13. Não veio sobre vós tentação, senão humana; mas fiel é Deus, que não vos deixará tentar acima do que podeis, antes com a tentação dará também o escape, para que a possais suportar. 
             </item>
-        <item>Hebreus 2:17-18|
-            17. Por isso convinha que em tudo fosse semelhante aos irmãos, para ser misericordioso e fiel sumo sacerdote naquilo que é de Deus, para expiar os pecados do povo.\n
-			18. Porque naquilo que ele mesmo, sendo tentado, padeceu, pode socorrer aos que são tentados. 
+        <item>
+            Hebrews 2:17-18|
+             	17. Wherefore in all things it behoved him to be made like unto his brethren, that he might be a merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people.\n
+ 				18. For in that he himself hath suffered being tempted, he is able to succour them that are tempted. 
             </item>
-        <item>Hebreus 4:14-16|
-            14. Visto que temos um grande sumo sacerdote, Jesus, Filho de Deus, que penetrou nos céus, retenhamos firmemente a nossa confissão.\n
-			15. Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas; porém, um que, como nós, em tudo foi tentado, mas sem pecado.\n
-			16. Cheguemos, pois, com confiança ao trono da graça, para que possamos alcançar misericórdia e achar graça, a fim de sermos ajudados em tempo oportuno. 
+        <item>
+            Hebrews 4:14-16|
+            	14. Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession.\n
+				15. For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.\n
+ 				16. Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need. 
             </item>
-        <item>Tiago 1:12-15|
-            12. Bem-aventurado o homem que suporta a tentação; porque, quando for provado, receberá a coroa da vida, a qual o Senhor tem prometido aos que o amam.\n
-			13. Ninguém, sendo tentado, diga: De Deus sou tentado; porque Deus não pode ser tentado pelo mal, e a ninguém tenta.\n
-			14. Mas cada um é tentado, quando atraído e engodado pela sua própria concupiscência.\n
-			15. Depois, havendo a concupiscência concebido, dá à luz o pecado; e o pecado, sendo consumado, gera a morte.
+        <item>
+            James 1:12-15|
+				12. Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.\n
+ 				13. Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:\n
+ 				14. But every man is tempted, when he is drawn away of his own lust, and enticed.\n
+ 				15. Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.
             </item>
-        <item>Tiago 4:7|
-            7. Sujeitai-vos, pois, a Deus, resisti ao diabo, e ele fugirá de vós.
+        <item>
+            James 4:7|
+             	7. Submit yourselves therefore to God. Resist the devil, and he will flee from you.
             </item>
     </string-array>
     <string-array name="advices_array">
-        <item>Salmo 16|
-            1. Guarda-me, ó Deus, porque em ti confio.\n
-			2. A minha alma disse ao SENHOR: Tu és o meu Senhor, a minha bondade não chega à tua presença,\n
-			3. Mas aos santos que estão na terra, e aos ilustres em quem está todo o meu prazer.\n
-			4. As dores se multiplicarão àqueles que fazem oferendas a outro deus; eu não oferecerei as suas libações de sangue, nem tomarei os seus nomes nos meus lábios.\n
-			5. O SENHOR é a porção da minha herança e do meu cálice; tu sustentas a minha sorte.\n
-			6. As linhas caem-me em lugares deliciosos: sim, coube-me uma formosa herança.\n
-			7. Louvarei ao SENHOR que me aconselhou; até os meus rins me ensinam de noite.\n
-			8. Tenho posto o SENHOR continuamente diante de mim; por isso que ele está à minha mão direita, nunca vacilarei.\n
-			9. Portanto está alegre o meu coração e se regozija a minha glória; também a minha carne repousará segura.\n
-			10. Pois não deixarás a minha alma no inferno, nem permitirás que o teu Santo veja corrupção.\n
-			11. Far-me-ás ver a vereda da vida; na tua presença há fartura de alegrias; à tua mão direita há delícias perpetuamente.
+        <item>
+            Psalm 16|
+             	1. Preserve me, O God: for in thee do I put my trust.\n
+ 				2. O my soul, thou hast said unto the LORD, Thou art my Lord: my goodness extendeth not to thee;\n
+ 				3. But to the saints that are in the earth, and to the excellent, in whom is all my delight.\n
+ 				4. Their sorrows shall be multiplied that hasten after another god: their drink offerings of blood will I not offer, nor take up their names into my lips.\n
+ 				5. The LORD is the portion of mine inheritance and of my cup: thou maintainest my lot.\n
+ 				6. The lines are fallen unto me in pleasant places; yea, I have a goodly heritage.\n
+ 				7. I will bless the LORD, who hath given me counsel: my reins also instruct me in the night seasons.\n
+ 				8. I have set the LORD always before me: because he is at my right hand, I shall not be moved.\n
+ 				9. Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.\n
+ 				10. For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.\n
+ 				11. Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are 
             </item>
-        <item>Salmo 25:4-10|
-            4. Faze-me saber os teus caminhos, SENHOR; ensina-me as tuas veredas.\n
-			5. Guia-me na tua verdade, e ensina-me, pois tu és o Deus da minha salvação; por ti estou esperando todo o dia.\n
-			6. Lembra-te, SENHOR, das tuas misericórdias e das tuas benignidades, porque são desde a eternidade.\n
-			7. Não te lembres dos pecados da minha mocidade, nem das minhas transgressões; mas segundo a tua misericórdia, lembra-te de mim, por tua bondade, SENHOR.\n
-			8. Bom e reto é o SENHOR; por isso ensinará o caminho aos pecadores.\n
-			9. Guiará os mansos em justiça e aos mansos ensinará o seu caminho.\n
-			10. Todas as veredas do SENHOR são misericórdia e verdade para aqueles que guardam a sua aliança e os seus testemunhos.
+        <item>
+            Psalm 25:4-10|
+             	4. Shew me thy ways, O LORD; teach me thy paths.\n
+ 				5. Lead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day.\n
+ 				6. Remember, O LORD, thy tender mercies and thy lovingkindnesses; for they have been ever of old.\n
+ 				7. Remember not the sins of my youth, nor my transgressions: according to thy mercy remember thou me for thy goodness\' sake, O LORD.\n
+ 				8. Good and upright is the LORD: therefore will he teach sinners in the way.\n
+ 				9. The meek will he guide in judgment: and the meek will he teach his way.\n
+ 				10. All the paths of the LORD are mercy and truth unto such as keep his covenant and his testimonies.
             </item>
-        <item>Salmo 32:8|
-            8. Instruir-te-ei, e ensinar-te-ei o caminho que deves seguir; guiar-te-ei com os meus olhos. 
+        <item>
+            Psalm 32:8|
+             	8. I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye. 
             </item>
-        <item>Salmo 119:105|
-            105. Quem dera que os meus caminhos fossem dirigidos a observar os teus mandamentos. 
+        <item>
+            Psalm 119:105|
+            	105. Thy word is a lamp unto my feet, and a light unto my path. 
             </item>
-        <item>Isaías 30:21|
-            21. E os teus ouvidos ouvirão a palavra do que está por detrás de ti, dizendo: Este é o caminho, andai nele, sem vos desviardes nem para a direita nem para a esquerda. 
+        <item>
+            Isaiah 30:21|
+            	21. E os teus ouvidos ouvirão a palavra do que está por detrás de ti, dizendo: Este é o caminho, andai nele, sem vos desviardes nem para a direita nem para a esquerda. 
             </item>
     </string-array>
     <string-array name="decisions_array">
-        <item>Provérbios 3:5-6|
-            5. Confia no SENHOR de todo o teu coração, e não te estribes no teu próprio entendimento.\n
-			6. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas.
+        <item>
+            Proverbs 3:5-6|
+            	5. Trust in the LORD with all thine heart; and lean not unto thine own understanding.\n
+ 				6. In all thy ways acknowledge him, and he shall direct thy paths.
             </item>
-        <item>Provérbios 16:3|
-            3. Os lábios de justiça são o contentamento dos reis; eles amarão o que fala coisas retas.
+        <item>
+            Proverbs 16:3|
+            	3. Commit thy works unto the LORD, and thy thoughts shall be established.
             </item>
-        <item>I Coríntios 10:31|
-            31. Portanto, quer comais quer bebais, ou façais outra qualquer coisa, fazei tudo para glória de Deus.
+        <item>
+            I Corinthians 10:31|
+            	31. Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.
             </item>
-        <item>Gálatas 6:10|
-            10. Então, enquanto temos tempo, façamos bem a todos, mas principalmente aos domésticos da fé.
+        <item>
+            Galatians 6:10|
+            	10. As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.
             </item>
-        <item>Tiago 1:5-8|
-            5. E, se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente, e o não lança em rosto, e ser-lhe-á dada.\n
-			6. Peça-a, porém, com fé, em nada duvidando; porque o que duvida é semelhante à onda do mar, que é levada pelo vento, e lançada de uma para outra parte.\n
-			7. Não pense tal homem que receberá do Senhor alguma coisa.\n
-			8. O homem de coração dobre é inconstante em todos os seus caminhos.
+        <item>
+            James 1:5-8|
+             	5. If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.\n
+ 				6. But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.\n
+ 				7. For let not that man think that he shall receive any thing of the Lord.\n
+ 				8. A double minded man is unstable in all his ways.
             </item>
     </string-array>
     <string-array name="angry_array">
-        <item>Mateus 5:44-48|
-            44. Eu, porém, vos digo: Amai a vossos inimigos, bendizei os que vos maldizem, fazei bem aos que vos odeiam, e orai pelos que vos maltratam e vos perseguem; para que sejais filhos do vosso Pai que está nos céus;\n
-			45. Porque faz que o seu sol se levante sobre maus e bons, e a chuva desça sobre justos e injustos.\n
-			46. Pois, se amardes os que vos amam, que galardão tereis? Não fazem os publicanos também o mesmo?\n
-			47. E, se saudardes unicamente os vossos irmãos, que fazeis de mais? Não fazem os publicanos também assim?\n
-			48. Sede vós pois perfeitos, como é perfeito o vosso Pai que está nos céus.
+        <item>
+            Matthew 5:44-48|
+	            44. But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;\n
+				45. That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.\n
+				46. For if ye love them which love you, what reward have ye? do not even the publicans the same?\n
+				47. And if ye salute your brethren only, what do ye more than others? do not even the publicans so?\n
+				48. Be ye therefore perfect, even as your Father which is in heaven is perfect.
             </item>
-        <item>Romanos 12:17-21|
-            17. A ninguém torneis mal por mal; procurai as coisas honestas, perante todos os homens.\n
-			18. Se for possível, quanto estiver em vós, tende paz com todos os homens.\n
-			19. Não vos vingueis a vós mesmos, amados, mas dai lugar à ira, porque está escrito: Minha é a vingança; eu recompensarei, diz o Senhor.\n
-			20. Portanto, se o teu inimigo tiver fome, dá-lhe de comer; se tiver sede, dá-lhe de beber; porque, fazendo isto, amontoarás brasas de fogo sobre a sua cabeça.\n
-			21. Não te deixes vencer do mal, mas vence o mal com o bem.
+        <item>
+            Romans 12:17-21|
+            	17. Recompense to no man evil for evil. Provide things honest in the sight of all men.\n
+				 18. If it be possible, as much as lieth in you, live peaceably with all men.\n
+				 19. Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.\n
+				 20. Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head.\n
+				 21. Be not overcome of evil, but overcome evil with good.
             </item>
-        <item>I Coríntios 13|
-            1. Ainda que eu falasse as línguas dos homens e dos anjos, e não tivesse amor, seria como o metal que soa ou como o sino que tine.\n
-			2. E ainda que tivesse o dom de profecia, e conhecesse todos os mistérios e toda a ciência, e ainda que tivesse toda a fé, de maneira tal que transportasse os montes, e não tivesse amor, nada seria.\n
-			3. E ainda que distribuísse toda a minha fortuna para sustento dos pobres, e ainda que entregasse o meu corpo para ser queimado, e não tivesse amor, nada disso me aproveitaria.\n
-			4. O amor é sofredor, é benigno; o amor não é invejoso; o amor não trata com leviandade, não se ensoberbece.\n
-			5. Não se porta com indecência, não busca os seus interesses, não se irrita, não suspeita mal;\n
-			6. Não folga com a injustiça, mas folga com a verdade;\n
-			7. Tudo sofre, tudo crê, tudo espera, tudo suporta.\n
-			8. O amor nunca falha; mas havendo profecias, serão aniquiladas; havendo línguas, cessarão; havendo ciência, desaparecerá;\n
-			9. Porque, em parte, conhecemos, e em parte profetizamos;\n
-			10. Mas, quando vier o que é perfeito, então o que o é em parte será aniquilado.\n
-			11. Quando eu era menino, falava como menino, sentia como menino, discorria como menino, mas, logo que cheguei a ser homem, acabei com as coisas de menino.\n
-			12. Porque agora vemos por espelho em enigma, mas então veremos face a face; agora conheço em parte, mas então conhecerei como também sou conhecido.\n
-			13. Agora, pois, permanecem a fé, a esperança e o amor, estes três, mas o maior destes é o amor.
+        <item>
+            I Corinthians 13|
+	             1. Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.\n
+				 2. And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.\n
+				 3. And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.\n
+				 4. Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,\n
+				 5. Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;\n
+				 6. Rejoiceth not in iniquity, but rejoiceth in the truth;\n
+				 7. Beareth all things, believeth all things, hopeth all things, endureth all things.\n
+				 8. Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.\n
+				 9. For we know in part, and we prophesy in part.\n
+				 10. But when that which is perfect is come, then that which is in part shall be done away.\n
+				 11. When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.\n
+				 12. For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.\n
+				 13. And now abideth faith, hope, charity, these three; but the greatest of these is charity.
             </item>
-        <item>Colossenses 3:12-17|
-            12. Revesti-vos, pois, como eleitos de Deus, santos e amados, de entranhas de misericórdia, de benignidade, humildade, mansidão, longanimidade;\n
-			13. Suportando-vos uns aos outros, e perdoando-vos uns aos outros, se alguém tiver queixa contra outro; assim como Cristo vos perdoou, assim fazei vós também.\n
-			14. E, sobre tudo isto, revesti-vos de amor, que é o vínculo da perfeição.\n
-			15. E a paz de Deus, para a qual também fostes chamados em um corpo, domine em vossos corações; e sede agradecidos.\n
-			16. A palavra de Cristo habite em vós abundantemente, em toda a sabedoria, ensinando-vos e admoestando-vos uns aos outros, com salmos, hinos e cânticos espirituais, cantando ao Senhor com graça em vosso coração.\n
-			17. E, quanto fizerdes por palavras ou por obras, fazei tudo em nome do Senhor Jesus, dando por ele graças a Deus Pai.
+        <item>
+            Colossians 3:12-17|
+	            12. Revesti-vos, pois, como eleitos de Deus, santos e amados, de entranhas de misericórdia, de benignidade, humildade, mansidão, longanimidade;\n
+				13. Suportando-vos uns aos outros, e perdoando-vos uns aos outros, se alguém tiver queixa contra outro; assim como Cristo vos perdoou, assim fazei vós também.\n
+				14. E, sobre tudo isto, revesti-vos de amor, que é o vínculo da perfeição.\n
+				15. E a paz de Deus, para a qual também fostes chamados em um corpo, domine em vossos corações; e sede agradecidos.\n
+				16. A palavra de Cristo habite em vós abundantemente, em toda a sabedoria, ensinando-vos e admoestando-vos uns aos outros, com Psalms, hinos e cânticos espirituais, cantando ao Senhor com graça em vosso coração.\n
+				17. E, quanto fizerdes por palavras ou por obras, fazei tudo em nome do Senhor Jesus, dando por ele graças a Deus Pai.
             </item>
-        <item>Tiago 1:19-20|
-            19. Portanto, meus amados irmãos, todo o homem seja pronto para ouvir, tardio para falar, tardio para se irar.\n
-			20. Porque a ira do homem não opera a justiça de Deus. 
+        <item>
+            James 1:19-20|
+             	19. Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:\n
+				20. For the wrath of man worketh not the righteousness of God. 
             </item>
     </string-array>
     <string-array name="envy_array">
-        <item>Salmo 49:16-20|
-            16. Não temas, quando alguém se enriquece, quando a glória da sua casa se engrandece.\n
-			17. Porque, quando morrer, nada levará consigo, nem a sua glória o acompanhará.\n
-			18. Ainda que na sua vida ele bendisse a sua alma; e os homens te louvarão, quando fizeres bem a ti mesmo,\n
-			19. Irá para a geração de seus pais; eles nunca verão a luz.\n
-			20. O homem que está em honra, e não tem entendimento, é semelhante aos animais, que perecem.
+        <item>
+            Psalm 49:16-20|
+				16. Be not thou afraid when one is made rich, when the glory of his house is increased;\n
+			 	17. For when he dieth he shall carry nothing away: his glory shall not descend after him.\n
+			 	18. Though while he lived he blessed his soul: and men will praise thee, when thou doest well to thyself.\n
+			 	19. He shall go to the generation of his fathers; they shall never see light.\n
+			 	20. Man that is in honour, and understandeth not, is like the beasts that perish.
             </item>
-        <item>Tiago 3:13-18|
-            13. Quem dentre vós é sábio e entendido? Mostre pelo seu bom trato as suas obras em mansidão de sabedoria.\n
-			14. Mas, se tendes amarga inveja, e sentimento faccioso em vosso coração, não vos glorieis, nem mintais contra a verdade.\n
-			15. Essa não é a sabedoria que vem do alto, mas é terrena, animal e diabólica.\n
-			16. Porque onde há inveja e espírito faccioso aí há perturbação e toda a obra perversa.\n
-			17. Mas a sabedoria que do alto vem é, primeiramente pura, depois pacífica, moderada, tratável, cheia de misericórdia e de bons frutos, sem parcialidade, e sem hipocrisia.\n
-			18. Ora, o fruto da justiça semeia-se na paz, para os que exercitam a paz.
+        <item>
+            James 3:13-18|
+            	13. Who is a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom.\n
+			 	14. But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth.\n
+			 	15. This wisdom descendeth not from above, but is earthly, sensual, devilish.\n
+			 	16. For where envying and strife is, there is confusion and every evil work.\n
+			 	17. But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.\n
+			 	18. And the fruit of righteousness is sown in peace of them that make peace.
             </item>
     </string-array>
     <string-array name="guilty_array">
-        <item>Salmo 32|
-            1. Bem-aventurado aquele cuja transgressão é perdoada, e cujo pecado é coberto.\n
-			2. Bem-aventurado o homem a quem o SENHOR não imputa maldade, e em cujo espírito não há engano.\n
-			3. Quando eu guardei silêncio, envelheceram os meus ossos pelo meu bramido em todo o dia.\n
-			4. Porque de dia e de noite a tua mão pesava sobre mim; o meu humor se tornou em sequidão de estio. (Selá.)\n
-			5. Confessei-te o meu pecado, e a minha maldade não encobri. Dizia eu: Confessarei ao SENHOR as minhas transgressões; e tu perdoaste a maldade do meu pecado. (Selá.)\n
-			6. Por isso, todo aquele que é santo orará a ti, a tempo de te poder achar; até no transbordar de muitas águas, estas não lhe chegarão.\n
-			7. Tu és o lugar em que me escondo; tu me preservas da angústia; tu me cinges de alegres cantos de livramento. (Selá.)\n
-			8. Instruir-te-ei, e ensinar-te-ei o caminho que deves seguir; guiar-te-ei com os meus olhos.\n
-			9. Não sejais como o cavalo, nem como a mula, que não têm entendimento, cuja boca precisa de cabresto e freio para que não se cheguem a ti.\n
-			10. O ímpio tem muitas dores, mas àquele que confia no SENHOR a misericórdia o cercará.\n
-			11. Alegrai-vos no SENHOR, e regozijai-vos, vós os justos; e cantai alegremente, todos vós que sois retos de coração. 
+        <item>
+            Psalm 32|
+				1. Blessed is he whose transgression is forgiven, whose sin is covered.\n
+			 	2. Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile.\n
+			 	3. When I kept silence, my bones waxed old through my roaring all the day long.\n
+			 	4. For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.\n
+		 		5. I acknowledge my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and thou forgavest the iniquity of my sin. Selah.\n
+			 	6. For this shall every one that is godly pray unto thee in a time when thou mayest be found: surely in the floods of great waters they shall not come nigh unto him.\n
+		 		7. Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah.\n
+			 	8. I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.\n
+			 	9. Be ye not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee.\n
+			 	10. Many sorrows shall be to the wicked: but he that trusteth in the LORD, mercy shall compass him about.\n
+			 	11. Be glad in the LORD, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart. 
             </item>
-        <item>Salmo 51|
-            1. [Salmo de Davi para o músico-mor, quando o profeta Natã veio a ele, depois dele ter possuído a Bate-Seba] Tem misericórdia de mim, ó Deus, segundo a tua benignidade; apaga as minhas transgressões, segundo a multidão das tuas misericórdias.\n
-			2. Lava-me completamente da minha iniqüidade, e purifica-me do meu pecado.\n
-			3. Porque eu conheço as minhas transgressões, e o meu pecado está sempre diante de mim.\n
-			4. Contra ti, contra ti somente pequei, e fiz o que é mal à tua vista, para que sejas justificado quando falares, e puro quando julgares.\n
-			5. Eis que em iniqüidade fui formado, e em pecado me concebeu minha mãe.\n
-			6. Eis que amas a verdade no íntimo, e no oculto me fazes conhecer a sabedoria.\n
-			7. Purifica-me com hissope, e ficarei puro; lava-me, e ficarei mais branco do que a neve.\n
-			8. Faze-me ouvir júbilo e alegria, para que gozem os ossos que tu quebraste.\n
-			9. Esconde a tua face dos meus pecados, e apaga todas as minhas iniqüidades.\n
-			10. Cria em mim, ó Deus, um coração puro, e renova em mim um espírito reto.\n
-			11. Não me lances fora da tua presença, e não retires de mim o teu Espírito Santo.\n
-			12. Torna a dar-me a alegria da tua salvação, e sustém-me com um espírito voluntário.\n
-			13. Então ensinarei aos transgressores os teus caminhos, e os pecadores a ti se converterão.\n
-			14. Livra-me dos crimes de sangue, ó Deus, Deus da minha salvação, e a minha língua louvará altamente a tua justiça.\n
-			15. Abre, Senhor, os meus lábios, e a minha boca entoará o teu louvor.\n
-			16. Pois não desejas sacrifícios, senão eu os daria; tu não te deleitas em holocaustos.\n
-			17. Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e contrito não desprezarás, ó Deus.\n
-			18. Faze o bem a Sião, segundo a tua boa vontade; edifica os muros de Jerusalém.\n
-			19. Então te agradarás dos sacrifícios de justiça, dos holocaustos e das ofertas queimadas; então se oferecerão novilhos sobre o teu altar.
+        <item>
+            Psalm 51|
+				1. Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.\n
+				 2. Wash me throughly from mine iniquity, and cleanse me from my sin.\n
+				 3. For I acknowledge my transgressions: and my sin is ever before me.\n
+				 4. Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest.\n
+				 5. Behold, I was shapen in iniquity; and in sin did my mother conceive me.\n
+				 6. Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.\n
+				 7. Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.\n
+				 8. Make me to hear joy and gladness; that the bones which thou hast broken may rejoice.\n
+				 9. Hide thy face from my sins, and blot out all mine iniquities.\n
+				 10. Create in me a clean heart, O God; and renew a right spirit within me.\n
+				 11. Cast me not away from thy presence; and take not thy holy spirit from me.\n
+				 12. Restore unto me the joy of thy salvation; and uphold me with thy free spirit.\n
+				 13. Then will I teach transgressors thy ways; and sinners shall be converted unto thee.\n
+				 14. Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness.\n
+				 15. O Lord, open thou my lips; and my mouth shall shew forth thy praise.\n
+				 16. For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering.\n
+				 17. The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.\n
+				 18. Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem.\n
+				 19. Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.
             </item>
-        <item>Salmo 130|
-            1. Das profundezas a ti clamo, ó SENHOR.\n
-			2. Senhor, escuta a minha voz; sejam os teus ouvidos atentos à voz das minhas súplicas.\n
-			3. Se tu, SENHOR, observares as iniqüidades, Senhor, quem subsistirá?\n
-			4. Mas contigo está o perdão, para que sejas temido.\n
-			5. Aguardo ao SENHOR; a minha alma o aguarda, e espero na sua palavra.\n
-			6. A minha alma anseia pelo Senhor, mais do que os guardas pela manhã, mais do que aqueles que guardam pela manhã.\n
-			7. Espere Israel no SENHOR, porque no SENHOR há misericórdia, e nele há abundante redenção.\n
-			8. E ele remirá a Israel de todas as suas iniqüidades.
+        <item>
+            Psalm 130|
+				1. Out of the depths have I cried unto thee, O LORD.\n
+				 2. Lord, hear my voice: let thine ears be attentive to the voice of my supplications.\n
+				 3. If thou, LORD, shouldest mark iniquities, O Lord, who shall stand?\n
+				 4. But there is forgiveness with thee, that thou mayest be feared.\n
+				 5. I wait for the LORD, my soul doth wait, and in his word do I hope.\n
+				 6. My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning.\n
+				 7. Let Israel hope in the LORD: for with the LORD there is mercy, and with him is plenteous redemption.\n
+				 8. And he shall redeem Israel from all his iniquities.
             </item>
-        <item>Isaías 1:18|
-            18. Vinde então, e argüi-me, diz o SENHOR: ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve; ainda que sejam vermelhos como o carmesim, se tornarão como a branca lã. 
+        <item>
+            Isaiah 1:18|
+            	18. Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool. 
             </item>
-        <item>Lucas 15|
-            1. E Chegavam-se a ele todos os publicanos e pecadores para o ouvir.\n
-			2. E os fariseus e os escribas murmuravam, dizendo: Este recebe pecadores, e come com eles.\n
-			3. E ele lhes propôs esta parábola, dizendo:\n
-			4. Que homem dentre vós, tendo cem ovelhas, e perdendo uma delas, não deixa no deserto as noventa e nove, e não vai após a perdida até que venha a achá-la?\n
-			5. E achando-a, a põe sobre os seus ombros, gostoso;\n
-			6. E, chegando a casa, convoca os amigos e vizinhos, dizendo-lhes: Alegrai-vos comigo, porque já achei a minha ovelha perdida.\n
-			7. Digo-vos que assim haverá alegria no céu por um pecador que se arrepende, mais do que por noventa e nove justos que não necessitam de arrependimento.\n
-			8. Ou qual a mulher que, tendo dez dracmas, se perder uma dracma, não acende a candeia, e varre a casa, e busca com diligência até a achar?\n
-			9. E achando-a, convoca as amigas e vizinhas, dizendo: Alegrai-vos comigo, porque já achei a dracma perdida.\n
-			10. Assim vos digo que há alegria diante dos anjos de Deus por um pecador que se arrepende.\n
-			11. E disse: Um certo homem tinha dois filhos;\n
-			12. E o mais moço deles disse ao pai: Pai, dá-me a parte dos bens que me pertence. E ele repartiu por eles a fazenda.\n
-			13. E, poucos dias depois, o filho mais novo, ajuntando tudo, partiu para uma terra longínqua, e ali desperdiçou os seus bens, vivendo dissolutamente.\n
-			14. E, havendo ele gastado tudo, houve naquela terra uma grande fome, e começou a padecer necessidades.\n
-			15. E foi, e chegou-se a um dos cidadãos daquela terra, o qual o mandou para os seus campos, a apascentar porcos.\n
-			16. E desejava encher o seu estômago com as bolotas que os porcos comiam, e ninguém lhe dava nada.\n
-			17. E, tornando em si, disse: Quantos jornaleiros de meu pai têm abundância de pão, e eu aqui pereço de fome!\n
-			18. Levantar-me-ei, e irei ter com meu pai, e dir-lhe-ei: Pai, pequei contra o céu e perante ti;\n
-			19. Já não sou digno de ser chamado teu filho; faze-me como um dos teus jornaleiros.\n
-			20. E, levantando-se, foi para seu pai; e, quando ainda estava longe, viu-o seu pai, e se moveu de íntima compaixão e, correndo, lançou-se-lhe ao pescoço e o beijou.\n
-			21. E o filho lhe disse: Pai, pequei contra o céu e perante ti, e já não sou digno de ser chamado teu filho.\n
-			22. Mas o pai disse aos seus servos: Trazei depressa a melhor roupa; e vesti-lho, e ponde-lhe um anel na mão, e alparcas nos pés;\n
-			23. E trazei o bezerro cevado, e matai-o; e comamos, e alegremo-nos;\n
-			24. Porque este meu filho estava morto, e reviveu, tinha-se perdido, e foi achado. E começaram a alegrar-se.\n
-			25. E o seu filho mais velho estava no campo; e quando veio, e chegou perto de casa, ouviu a música e as danças.\n
-			26. E, chamando um dos servos, perguntou-lhe que era aquilo.\n
-			27. E ele lhe disse: Veio teu irmão; e teu pai matou o bezerro cevado, porque o recebeu são e salvo.\n
-			28. Mas ele se indignou, e não queria entrar.\n
-			29. E saindo o pai, instava com ele. Mas, respondendo ele, disse ao pai: Eis que te sirvo há tantos anos, sem nunca transgredir o teu mandamento, e nunca me deste um cabrito para alegrar-me com os meus amigos;\n
-			30. Vindo, porém, este teu filho, que desperdiçou os teus bens com as meretrizes, mataste-lhe o bezerro cevado.\n
-			31. E ele lhe disse: Filho, tu sempre estás comigo, e todas as minhas coisas são tuas;\n
-			32. Mas era justo alegrarmo-nos e folgarmos, porque este teu irmão estava morto, e reviveu; e tinha-se perdido, e achou-se.
+        <item>
+            Luke 15|
+	            1. Then drew near unto him all the publicans and sinners for to hear him.\n
+				 2. And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them.\n
+				 3. And he spake this parable unto them, saying,\n
+				 4. What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?\n
+				 5. And when he hath found it, he layeth it on his shoulders, rejoicing.\n
+				 6. And when he cometh home, he calleth together his friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost.\n
+				 7. I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.\n
+				 8. Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find it?\n
+				 9. And when she hath found it, she calleth her friends and her neighbours together, saying, Rejoice with me; for I have found the piece which I had lost.\n
+				 10. Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.\n
+				 11. And he said, A certain man had two sons:\n
+				 12. And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living.\n
+				 13. And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.\n
+				 14. And when he had spent all, there arose a mighty famine in that land; and he began to be in want.\n
+				 15. And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.\n
+				 16. And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.\n
+				 17. And when he came to himself, he said, How many hired servants of my father\'s have bread enough and to spare, and I perish with hunger!\n
+				 18. I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,\n
+				 19. And am no more worthy to be called thy son: make me as one of thy hired servants.\n
+				 20. And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.\n
+				 21. And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son.\n
+				 22. But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:\n
+				 23. And bring hither the fatted calf, and kill it; and let us eat, and be merry:\n
+				 24. For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.\n
+				 25. Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing.\n
+				 26. And he called one of the servants, and asked what these things meant.\n
+				 27. And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound.\n
+				 28. And he was angry, and would not go in: therefore came his father out, and intreated him.\n
+				 29. And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:\n
+				 30. But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.\n
+				 31. And he said unto him, Son, thou art ever with me, and all that I have is thine.\n
+				 32. It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.
             </item>
-        <item>João 6:37|
-            37. Todo o que o Pai me dá virá a mim; e o que vem a mim de maneira nenhuma o lançarei fora.
+        <item>
+            John 6:37|
+            	37. All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.
             </item>
-        <item>I João 1:8|
-            8. Se dissermos que não temos pecado, enganamo-nos a nós mesmos, e não há verdade em nós. 
+        <item>
+            I John 1:8|
+            	8. If we say that we have no sin, we deceive ourselves, and the truth is not in us. 
             </item>
-        <item>I João 2:2|
-            2. E ele é a propiciação pelos nossos pecados, e não somente pelos nossos, mas também pelos de todo o mundo.
+        <item>
+            I John 2:2|
+            	2. And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.
             </item>
     </string-array>
     <string-array name="abandon_array">
-        <item>Salmo 22:1-11|
-            1. Deus meu, Deus meu, por que me desamparaste? Por que te alongas do meu auxílio e das palavras do meu bramido?\n
-			2. Deus meu, eu clamo de dia, e tu não me ouves; de noite, e não tenho sossego.\n
-			3. Porém tu és santo, tu que habitas entre os louvores de Israel.\n
-			4. Em ti confiaram nossos pais; confiaram, e tu os livraste.\n
-			5. A ti clamaram e escaparam; em ti confiaram, e não foram confundidos.\n
-			6. Mas eu sou verme, e não homem, opróbrio dos homens e desprezado do povo.\n
-			7. Todos os que me vêem zombam de mim, estendem os lábios e meneiam a cabeça, dizendo:\n
-			8. Confiou no SENHOR, que o livre; livre-o, pois nele tem prazer.\n
-			9. Mas tu és o que me tiraste do ventre; fizeste-me confiar, estando aos seios de minha mãe.\n
-			10. Sobre ti fui lançado desde a madre; tu és o meu Deus desde o ventre de minha mãe.\n
-			11. Não te alongues de mim, pois a angústia está perto, e não há quem ajude.
+        <item>
+            Psalm 22:1-11|
+				1. My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?\n
+				 2. O my God, I cry in the day time, but thou hearest not; and in the night season, and am not silent.\n
+				 3. But thou art holy, O thou that inhabitest the praises of Israel.\n
+				 4. Our fathers trusted in thee: they trusted, and thou didst deliver them.\n
+				 5. They cried unto thee, and were delivered: they trusted in thee, and were not confounded.\n
+				 6. But I am a worm, and no man; a reproach of men, and despised of the people.\n
+				 7. All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying,\n
+				 8. He trusted on the LORD that he would deliver him: let him deliver him, seeing he delighted in him.\n
+				 9. But thou art he that took me out of the womb: thou didst make me hope when I was upon my mother\'s breasts.\n
+				 10. I was cast upon thee from the womb: thou art my God from my mother\'s belly.\n
+				 11. Be not far from me; for trouble is near; for there is none to help.
             </item>
-        <item>Salmo 139:1-12|
-            1. SENHOR, tu me sondaste, e me conheces.
-			2. Tu sabes o meu assentar e o meu levantar; de longe entendes o meu pensamento.\n
-			3. Cercas o meu andar, e o meu deitar; e conheces todos os meus caminhos.\n
-			4. Não havendo ainda palavra alguma na minha língua, eis que logo, ó SENHOR, tudo conheces.\n
-			5. Tu me cercaste por detrás e por diante, e puseste sobre mim a tua mão.\n
-			6. Tal ciência é para mim maravilhosíssima; tão alta que não a posso atingir.\n
-			7. Para onde me irei do teu espírito, ou para onde fugirei da tua face?\n
-			8. Se subir ao céu, lá tu estás; se fizer no inferno a minha cama, eis que tu ali estás também.\n
-			9. Se tomar as asas da alva, se habitar nas extremidades do mar,\n
-			10. Até ali a tua mão me guiará e a tua destra me susterá.\n
-			11. Se disser: Decerto que as trevas me encobrirão; então a noite será luz à roda de mim.\n
-			12. Nem ainda as trevas me encobrem de ti; mas a noite resplandece como o dia; as trevas e a luz são para ti a mesma coisa;
+        <item>
+            Psalm 139:1-12|
+				1. O lord, thou hast searched me, and known me.\n
+				 2. Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.\n
+				 3. Thou compassest my path and my lying down, and art acquainted with all my ways.\n
+				 4. For there is not a word in my tongue, but, lo, O LORD, thou knowest it altogether.\n
+				 5. Thou hast beset me behind and before, and laid thine hand upon me.\n
+				 6. Such knowledge is too wonderful for me; it is high, I cannot attain unto it.\n
+				 7. Whither shall I go from thy spirit? or whither shall I flee from thy presence?\n
+				 8. If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there.\n
+				 9. If I take the wings of the morning, and dwell in the uttermost parts of the sea;\n
+				 10. Even there shall thy hand lead me, and thy right hand shall hold me.\n
+				 11. If I say, Surely the darkness shall cover me; even the night shall be light about me.\n
+				 12. Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light are both alike to thee.
             </item>
-        <item>Isaías 49:14-16|
-            14. Porém Sião diz: Já me desamparou o SENHOR, e o meu Senhor se esqueceu de mim.\n
-			15. Porventura pode uma mulher esquecer-se tanto de seu filho que cria, que não se compadeça dele, do filho do seu ventre? Mas ainda que esta se esquecesse dele, contudo eu não me esquecerei de ti.\n
-			16. Eis que nas palmas das minhas mãos eu te gravei; os teus muros estão continuamente diante de mim. 
+        <item>
+            Isaiah 49:14-16|
+	            14. But Zion said, The LORD hath forsaken me, and my Lord hath forgotten me.\n
+	 			15. Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.\n
+	 			16. Behold, I have graven thee upon the palms of my hands; thy walls are continually before me. 
             </item>
-        <item>Filipenses 4:10-13|
-            10. Ora, muito me regozijei no Senhor por finalmente reviver a vossa lembrança de mim; pois já vos tínheis lembrado, mas não tínheis tido oportunidade.\n
-			11. Não digo isto como por necessidade, porque já aprendi a contentar-me com o que tenho.\n
-			12. Sei estar abatido, e sei também ter abundância; em toda a maneira, e em todas as coisas estou instruído, tanto a ter fartura, como a ter fome; tanto a ter abundância, como a padecer necessidade.\n
-			13. Posso todas as coisas em Cristo que me fortalece. 
+        <item>
+            Philippians 4:10-13|
+            	10. But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity.\n
+				 11. Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.\n
+				 12. I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need.\n
+				 13. I can do all things through Christ which strengtheneth me.
             </item>
-        <item>Hebreus 10:19-25|
-            19. Tendo, pois, irmãos, ousadia para entrar no santuário, pelo sangue de Jesus,\n
-			20. Pelo novo e vivo caminho que ele nos consagrou, pelo véu, isto é, pela sua carne,\n
-			21. E tendo um grande sacerdote sobre a casa de Deus,\n
-			22. Cheguemo-nos com verdadeiro coração, em inteira certeza de fé, tendo os corações purificados da má consciência, e o corpo lavado com água limpa,\n
-			23. Retenhamos firmes a confissão da nossa esperança; porque fiel é o que prometeu.\n
-			24. E consideremo-nos uns aos outros, para nos estimularmos ao amor e ás boas obras,\n
-			25. Não deixando a nossa congregação, como é costume de alguns, antes admoestando-nos uns aos outros; e tanto mais, quanto vedes que se vai aproximando aquele dia. 
+        <item>
+            Hebrews 10:19-25|
+            	19. Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus,\n
+				 20. By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh;\n
+				 21. And having an high priest over the house of God;\n
+				 22. Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water.\n
+				 23. Let us hold fast the profession of our faith without wavering; (for he is faithful that promised;)\n
+				 24. And let us consider one another to provoke unto love and to good works:\n
+				 25. Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching. 
             </item>
     </string-array>
     <string-array name="tired_array">
-        <item>Salmo 34:15-22|
-            15. Os olhos do SENHOR estão sobre os justos, e os seus ouvidos atentos ao seu clamor.\n
-			16. A face do SENHOR está contra os que fazem o mal, para desarraigar da terra a memória deles.\n
-			17. Os justos clamam, e o SENHOR os ouve, e os livra de todas as suas angústias.\n
-			18. Perto está o SENHOR dos que têm o coração quebrantado, e salva os contritos de espírito.\n
-			19. Muitas são as aflições do justo, mas o SENHOR o livra de todas.\n
-			20. Ele lhe guarda todos os seus ossos; nem sequer um deles se quebra.\n
-			21. A malícia matará o ímpio, e os que odeiam o justo serão punidos.\n
-			22. O SENHOR resgata a alma dos seus servos, e nenhum dos que nele confiam será punido.
+        <item>
+            Psalm 34:15-22|
+             	15. The eyes of the LORD are upon the righteous, and his ears are open unto their cry.\n
+				 16. The face of the LORD is against them that do evil, to cut off the remembrance of them from the earth.\n
+				 17. The righteous cry, and the LORD heareth, and delivereth them out of all their troubles.\n
+				 18. The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.\n
+				 19. Many are the afflictions of the righteous: but the LORD delivereth him out of them all.\n
+				 20. He keepeth all his bones: not one of them is broken.\n
+				 21. Evil shall slay the wicked: and they that hate the righteous shall be desolate.\n
+				 22. The LORD redeemeth the soul of his servants: and none of them that trust in him shall be desolate.
             </item>
-        <item>Isaías 40:25-31|
-            25. A quem, pois, me fareis semelhante, para que eu lhe seja igual? diz o Santo.\n
-			26. Levantai ao alto os vossos olhos, e vede quem criou estas coisas; foi aquele que faz sair o exército delas segundo o seu número; ele as chama a todas pelos seus nomes; por causa da grandeza das suas forças, e porquanto é forte em poder, nenhuma delas faltará.\n
-			27. Por que dizes, ó Jacó, e tu falas, ó Israel: O meu caminho está encoberto ao SENHOR, e o meu juízo passa despercebido ao meu Deus?\n
-			28. Não sabes, não ouviste que o eterno Deus, o SENHOR, o Criador dos fins da terra, nem se cansa nem se fatiga? É inescrutável o seu entendimento.\n
-			29. Dá força ao cansado, e multiplica as forças ao que não tem nenhum vigor.\n
-			30. Os jovens se cansarão e se fatigarão, e os moços certamente cairão;\n
-			31. Mas os que esperam no SENHOR renovarão as forças, subirão com asas como águias; correrão, e não se cansarão; caminharão, e não se fatigarão.
+        <item>
+            Isaiah 40:25-31|
+            	25. To whom then will ye liken me, or shall I be equal? saith the Holy One.\n
+				 26. Lift up your eyes on high, and behold who hath created these things, that bringeth out their host by number: he calleth them all by names by the greatness of his might, for that he is strong in power; not one faileth.\n
+				 27. Why sayest thou, O Jacob, and speakest, O Israel, My way is hid from the LORD, and my judgment is passed over from my God?\n
+				 28. Hast thou not known? hast thou not heard, that the everlasting God, the LORD, the Creator of the ends of the earth, fainteth not, neither is weary? there is no searching of his understanding.\n
+				 29. He giveth power to the faint; and to them that have no might he increaseth strength.\n
+				 30. Even the youths shall faint and be weary, and the young men shall utterly fall:\n
+				 31. But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint.
             </item>
-        <item>Mateus 11:28-30|
-            28. Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei.\n
-			29. Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e encontrareis descanso para as vossas almas.\n
-			30. Porque o meu jugo é suave e o meu fardo é leve.
+        <item>
+            Matthew 11:28-30|
+	            28. Come unto me, all ye that labour and are heavy laden, and I will give you rest.\n
+				29. Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.\n
+				30. For my yoke is easy, and my burden is light.
             </item>
-        <item>Hebreus 12:1-3|
-            1. Portanto nós também, pois que estamos rodeados de uma tão grande nuvem de testemunhas, deixemos todo o embaraço, e o pecado que tão de perto nos rodeia, e corramos com paciência a carreira que nos está proposta,\n
-			2. Olhando para Jesus, autor e consumador da fé, o qual, pelo gozo que lhe estava proposto, suportou a cruz, desprezando a afronta, e assentou-se à destra do trono de Deus.\n
-			3. Considerai, pois, aquele que suportou tais contradições dos pecadores contra si mesmo, para que não enfraqueçais, desfalecendo em vossos ânimos. 
+        <item>
+            Hebrews 12:1-3|
+             	1. Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,\n
+				 2. Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.\n
+				 3. For consider him that endured such contradiction of sinners against himself, lest ye be wearied and faint in your minds. 
             </item>
     </string-array>
     <string-array name="heaven_array">
-        <item>João 3:16|
-            16. Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna. 
+        <item>
+            John 3:16|
+            	16. For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. 
             </item>
-        <item>João 14:5-6|
-            5. Disse-lhe Tomé: Senhor, nós não sabemos para onde vais; e como podemos saber o caminho?\n
-			6. Disse-lhe Jesus: Eu sou o caminho, e a verdade e a vida; ninguém vem ao Pai, senão por mim.
+        <item>
+            John 14:5-6|
+            	5. Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?\n
+ 				6. Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
             </item>
-        <item>Romanos 6:20-23|
-            20. Porque, quando éreis servos do pecado, estáveis livres da justiça.\n
-			21. E que fruto tínheis então das coisas de que agora vos envergonhais? Porque o fim delas é a morte.\n
-			22. Mas agora, libertados do pecado, e feitos servos de Deus, tendes o vosso fruto para santificação, e por fim a vida eterna.\n
-			23. Porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna, por Cristo Jesus nosso Senhor.
+        <item>
+            Romans 6:20-23|
+            	20. For when ye were the servants of sin, ye were free from righteousness.\n
+				 21. What fruit had ye then in those things whereof ye are now ashamed? for the end of those things is death\n
+				 22. But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life.\n
+				 23. For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.
             </item>
-        <item>Romanos 10:9-13|
-            9. A saber: Se com a tua boca confessares ao Senhor Jesus, e em teu coração creres que Deus o ressuscitou dentre os mortos, serás salvo.\n
-			10. Visto que com o coração se crê para a justiça, e com a boca se faz confissão para a salvação.\n
-			11. Porque a Escritura diz: Todo aquele que nele crer não será confundido.\n
-			12. Porquanto não há diferença entre judeu e grego; porque um mesmo é o Senhor de todos, rico para com todos os que o invocam.\n
-			13. Porque todo aquele que invocar o nome do Senhor será salvo.
+        <item>
+            Romans 10:9-13|
+             	9. That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.\n
+				 10. For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.\n
+				 11. For the scripture saith, Whosoever believeth on him shall not be ashamed.\n
+				 12. For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.\n
+				 13. For whosoever shall call upon the name of the Lord shall be saved.
             </item>
-        <item>Efésios 2:8-9|
-            8. Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus.\n
-			9. Não vem das obras, para que ninguém se glorie; 
+        <item>
+            Epheasians 2:8-9|
+             	8. For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:\n
+ 				9. Not of works, lest any man should boast. 
             </item>
     </string-array>
     <string-array name="pray_array">
-        <item>Mateus 6:5-15|
-            5. E, quando orares, não sejas como os hipócritas; pois se comprazem em orar em pé nas sinagogas, e às esquinas das ruas, para serem vistos pelos homens. Em verdade vos digo que já receberam o seu galardão.\n
-			6. Mas tu, quando orares, entra no teu aposento e, fechando a tua porta, ora a teu Pai que está em secreto; e teu Pai, que vê em secreto, te recompensará publicamente.\n
-			7. E, orando, não useis de vãs repetições, como os gentios, que pensam que por muito falarem serão ouvidos\n
-			8. Não vos assemelheis, pois, a eles; porque vosso Pai sabe o que vos é necessário, antes de vós lho pedirdes.\n
-			9. Portanto, vós orareis assim: Pai nosso, que estás nos céus, santificado seja o teu nome;\n
-			10. Venha o teu reino, seja feita a tua vontade, assim na terra como no céu;\n
-			11. O pão nosso de cada dia nos dá hoje;\n
-			12. E perdoa-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores;\n
-			13. E não nos induzas à tentação; mas livra-nos do mal; porque teu é o reino, e o poder, e a glória, para sempre. Amém.\n
-			14. Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós;\n
-			15. Se, porém, não perdoardes aos homens as suas ofensas, também vosso Pai vos não perdoará as vossas ofensas.
+        <item>
+            Matthew 6:5-15|
+	            5. And when thou prayest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.\n
+				6. But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.\n
+				7. But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking.\n
+				8. Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.\n
+				9. After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.\n
+				10. Thy kingdom come, Thy will be done in earth, as it is in heaven.\n
+				11. Give us this day our daily bread.\n
+				12. And forgive us our debts, as we forgive our debtors.\n
+				13. And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.\n
+				14. For if ye forgive men their trespasses, your heavenly Father will also forgive you:\n
+				15. But if ye forgive not men their trespasses, neither will your Father forgive your trespasses.
             </item>
-        <item>Mateus 7:7-11|
-            7. Pedi, e dar-se-vos-á; buscai, e encontrareis; batei, e abrir-se-vos-á.\n
-			8. Porque, aquele que pede, recebe; e, o que busca, encontra; e, ao que bate, abrir-se-lhe-á.\n
-			9. E qual de entre vós é o homem que, pedindo-lhe pão o seu filho, lhe dará uma pedra?\n
-			10. E, pedindo-lhe peixe, lhe dará uma serpente?\n
-			11. Se vós, pois, sendo maus, sabeis dar boas coisas aos vossos filhos, quanto mais vosso Pai, que está nos céus, dará bens aos que lhe pedirem?
+        <item>
+            Matthew 7:7-11|
+	            7. Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:\n
+				8. For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.\n
+				9. Or what man is there of you, whom if his son ask bread, will he give him a stone?\n
+				10. Or if he ask a fish, will he give him a serpent?\n
+				11. If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?
             </item>
-        <item>Marcos 14:36|
-            36. E disse: Aba, Pai, todas as coisas te são possíveis; afasta de mim este cálice; não seja, porém, o que eu quero, mas o que tu queres. 
+        <item>
+            Mark 14:36|
+            	36. And he said, Abba, Father, all things are possible unto thee; take away this cup from me: nevertheless not what I will, but what thou wilt. 
             </item>
-        <item>João 15:7|
-            7. Se vós estiverdes em mim, e as minhas palavras estiverem em vós, pedireis tudo o que quiserdes, e vos será feito. 
+        <item>
+            John 15:7|
+            	7. If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you. 
             </item>
-        <item>Filipenses 4:6-7|
-            6. Não estejais inquietos por coisa alguma; antes as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplica, com ação de graças.\n
-			7. E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos sentimentos em Cristo Jesus.
+        <item>
+            Philippians 4:6-7|
+            	6. Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.\n
+ 				7. And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
             </item>
-        <item>I Tessalonicenses 5:17|
-            17. Orai sem cessar.
+        <item>
+            I Thessalonians 5:17|
+            	17. Pray without ceasing.
             </item>
-        <item>I João 5:14-15|
-            14. E esta é a confiança que temos nele, que, se pedirmos alguma coisa, segundo a sua vontade, ele nos ouve.\n
-			15. E, se sabemos que nos ouve em tudo o que pedimos, sabemos que alcançamos as petições que lhe fizemos.
+        <item>
+            I John 5:14-15|
+            	14. And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:\n
+ 				15. And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him.
             </item>
     </string-array>
     <string-array name="thankful_array">
-        <item>Salmo 98|
-            1. Cantai ao SENHOR um cântico novo, porque fez maravilhas; a sua destra e o seu braço santo lhe alcançaram a salvação.\n
-			2. O SENHOR fez notória a sua salvação, manifestou a sua justiça perante os olhos dos gentios.\n
-			3. Lembrou-se da sua benignidade e da sua verdade para com a casa de Israel; todas as extremidades da terra viram a salvação do nosso Deus.\n
-			4. Exultai no SENHOR toda a terra; exclamai e alegrai-vos de prazer, e cantai louvores.\n
-			5. Cantai louvores ao SENHOR com a harpa; com a harpa e a voz do canto.\n
-			6. Com trombetas e som de cornetas, exultai perante a face do SENHOR, do Rei.\n
-			7. Brame o mar e a sua plenitude; o mundo, e os que nele habitam.\n
-			8. Os rios batam as palmas; regozijem-se também as montanhas,\n
-			9. Perante a face do SENHOR, porque vem a julgar a terra; com justiça julgará o mundo, e o povo com eqüidade.
+        <item>
+            Psalm 98|
+            	1. O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.\n
+ 				2. The LORD hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.\n
+				 3. He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.\n
+				 4. Make a joyful noise unto the LORD, all the earth: make a loud noise, and rejoice, and sing praise.\n
+				 5. Sing unto the LORD with the harp; with the harp, and the voice of a psalm.\n
+				 6. With trumpets and sound of cornet make a joyful noise before the LORD, the King.\n
+				 7. Let the sea roar, and the fulness thereof; the world, and they that dwell therein.\n
+				 8. Let the floods clap their hands: let the hills be joyful together\n
+				 9. Before the LORD; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity.
             </item>
-        <item>Salmo 100|
-            1. Celebrai com júbilo ao SENHOR, todas as terras.\n
-			2. Servi ao SENHOR com alegria; e entrai diante dele com canto.\n
-			3. Sabei que o SENHOR é Deus; foi ele que nos fez, e não nós a nós mesmos; somos povo seu e ovelhas do seu pasto.\n
-			4. Entrai pelas portas dele com gratidão, e em seus átrios com louvor; louvai-o, e bendizei o seu nome.\n
-			5. Porque o SENHOR é bom, e eterna a sua misericórdia; e a sua verdade dura de geração em geração.
+        <item>
+            Psalm 100|
+				1. Make a joyful noise unto the LORD, all ye lands.\n
+				2. Serve the LORD with gladness: come before his presence with singing.\n
+				3. Know ye that the LORD he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture.\n
+				4. Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name.\n
+				5. For the LORD is good; his mercy is everlasting; and his truth endureth to all generations.
             </item>
-        <item>Salmo 103|
-            1. Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo nome.\n
-			2. Bendize, ó minha alma, ao SENHOR, e não te esqueças de nenhum de seus benefícios.\n
-			3. Ele é o que perdoa todas as tuas iniqüidades, que sara todas as tuas enfermidades,\n
-			4. Que redime a tua vida da perdição; que te coroa de benignidade e de misericórdia,\n
-			5. Que farta a tua boca de bens, de sorte que a tua mocidade se renova como a da águia.\n
-			6. O SENHOR faz justiça e juízo a todos os oprimidos.\n
-			7. Fez conhecidos os seus caminhos a Moisés, e os seus feitos aos filhos de Israel.\n
-			8. Misericordioso e piedoso é o SENHOR; longânimo e grande em benignidade.\n
-			9. Não reprovará perpetuamente, nem para sempre reterá a sua ira.\n
-			10. Não nos tratou segundo os nossos pecados, nem nos recompensou segundo as nossas iniqüidades.\n
-			11. Pois assim como o céu está elevado acima da terra, assim é grande a sua misericórdia para com os que o temem.\n
-			12. Assim como está longe o oriente do ocidente, assim afasta de nós as nossas transgressões.\n
-			13. Assim como um pai se compadece de seus filhos, assim o SENHOR se compadece daqueles que o temem.\n
-			14. Pois ele conhece a nossa estrutura; lembra-se de que somos pó.\n
-			15. Quanto ao homem, os seus dias são como a erva, como a flor do campo assim floresce.\n
-			16. Passando por ela o vento, logo se vai, e o seu lugar não será mais conhecido.\n
-			17. Mas a misericórdia do SENHOR é desde a eternidade e até a eternidade sobre aqueles que o temem, e a sua justiça sobre os filhos dos filhos;\n
-			18. Sobre aqueles que guardam a sua aliança, e sobre os que se lembram dos seus mandamentos para os cumprir.\n
-			19. O SENHOR tem estabelecido o seu trono nos céus, e o seu reino domina sobre tudo.\n
-			20. Bendizei ao SENHOR, todos os seus anjos, vós que excedeis em força, que guardais os seus mandamentos, obedecendo à voz da sua palavra.\n
-			21. Bendizei ao SENHOR, todos os seus exércitos, vós ministros seus, que executais o seu beneplácito.\n
-			22. Bendizei ao SENHOR, todas as suas obras, em todos os lugares do seu domínio; bendize, ó minha alma, ao SENHOR.
-            </item>
-        <item>1 Tessalonicenses 5:16-18|
-            16. Regozijai-vos sempre.\n
-			17. Orai sem cessar. \n
-			18. Em tudo dai graças, porque esta é a vontade de Deus em Cristo Jesus para convosco.
-            </item>
-    </string-array>            
-    
+        <item>
+            Psalm 103|
+				 1. Bless the LORD, O my soul: and all that is within me, bless his holy name.\n
+				 2. Bless the LORD, O my soul, and forget not all his benefits:\n
+				 3. Who forgiveth all thine iniquities; who healeth all thy diseases;\n
+				 4. Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;\n
+				 5. Who satisfieth thy mouth with good things; so that thy youth is renewed like the eagle\'s.\n
+				 6. The LORD executeth righteousness and judgment for all that are oppressed.\n
+				 7. He made known his ways unto Moses, his acts unto the children of Israel.\n
+				 8. The LORD is merciful and gracious, slow to anger, and plenteous in mercy.\n
+				 9. He will not always chide: neither will he keep his anger for ever.\n
+				 10. He hath not dealt with us after our sins; nor rewarded us according to our iniquities.\n
+				 11. For as the heaven is high above the earth, so great is his mercy toward them that fear him.\n
+				 12. As far as the east is from the west, so far hath he removed our transgressions from us.\n
+				 13. Like as a father pitieth his children, so the LORD pitieth them that fear him.\n
+				 14. For he knoweth our frame; he remembereth that we are dust.\n
+				 15. As for man, his days are as grass: as a flower of the field, so he flourisheth.\n
+				 16. For the wind passeth over it, and it is gone; and the place thereof shall know it no more.\n
+				 17. But the mercy of the LORD is from everlasting to everlasting upon them that fear him, and his righteousness unto children\'s children;\n
+				 18. To such as keep his covenant, and to those that remember his commandments to do them.\n
+				 19. The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all.\n
+				 20. Bless the LORD, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word.\n
+				 21. Bless ye the LORD, all ye his hosts; ye ministers of his, that do his pleasure.\n
+				 22. Bless the LORD, all his works in all places of his dominion: bless the LORD, O my soul.
+        </item>
+        <item>
+            I Thessalonians 5:16-18|
+	            16. Rejoice evermore.\n
+				17. Pray without ceasing.\n
+				18. In every thing give thanks: for this is the will of God in Christ Jesus concerning you.
+        </item>
+    </string-array>
 </resources>

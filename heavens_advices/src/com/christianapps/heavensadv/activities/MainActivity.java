@@ -6,6 +6,7 @@ import java.util.StringTokenizer;
 
 import android.app.AlertDialog;
 import android.app.ListActivity;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
@@ -24,6 +25,16 @@ import com.christianapps.heavensadv.values.Situation;
 import com.christianapps.heavensadv.*;
 
 public class MainActivity extends ListActivity {
+
+	public class CustomAdapter extends ArrayAdapter<String>
+	{
+		public CustomAdapter(Context context, int resource,
+				int textViewResourceId, String[] objects) {
+			super(context, resource, textViewResourceId, objects);
+		}
+
+		
+	}
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -86,7 +97,6 @@ public class MainActivity extends ListActivity {
 		llay.addView(tv);
 		return scroll;
 	}
-
 
 	private BibleVerse getRandomVerseBible()
 	{

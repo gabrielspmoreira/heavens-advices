@@ -15,14 +15,16 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
+        </activity>  
         <activity
             android:name=".activities.SituationsActivity"
-            android:label="@string/situations_title" >
+            android:label="@string/situations_title"
+            android:theme="@style/SituationStyle">
         </activity>
         <activity
             android:name=".activities.BibleVersesActivity"
-            android:label="@string/bibleverses_title" />
+            android:label="@string/bibleverses_title"
+            android:theme="@style/SituationStyle" />
                    
     </application>
 

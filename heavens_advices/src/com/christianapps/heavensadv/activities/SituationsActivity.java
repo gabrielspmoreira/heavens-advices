@@ -12,6 +12,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
+import com.christianapps.heavensadv.R;
 import com.christianapps.heavensadv.values.Situation;
 
 public class SituationsActivity extends ListActivity {
@@ -23,8 +24,10 @@ public class SituationsActivity extends ListActivity {
           super.onCreate(savedInstanceState);
         
           processMenus();
-
+          
+          setContentView(R.layout.situations);
           setListAdapter(new ArrayAdapter<Situation>(this, android.R.layout.simple_list_item_1, this.situations));
+         
           	
 	  	  ListView lv = getListView();
 	  	  lv.setTextFilterEnabled(true);	  	  

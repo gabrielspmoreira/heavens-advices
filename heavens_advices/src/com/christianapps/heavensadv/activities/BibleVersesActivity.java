@@ -28,6 +28,8 @@ public class BibleVersesActivity extends ListActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.bible_verses);
+        
 	  	Bundle extras = getIntent().getExtras(); 
 	  	Situation situation = (Situation) extras.getSerializable("situation");	 
 	  	setTitle(getResources().getString(R.string.app_name) + " - " + situation.getName());

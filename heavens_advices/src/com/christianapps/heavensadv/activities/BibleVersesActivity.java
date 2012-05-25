@@ -8,7 +8,9 @@ import android.content.DialogInterface;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.view.Gravity;
+import android.view.LayoutInflater;
 import android.view.View;
+import android.view.ViewGroup;
 import android.view.ViewGroup.LayoutParams;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
@@ -20,6 +22,7 @@ import android.widget.ScrollView;
 import android.widget.TextView;
 import com.christianapps.heavensadv.*;
 
+import com.christianapps.heavensadv.adapters.BibleVerseAdapter;
 import com.christianapps.heavensadv.values.BibleVerse;
 import com.christianapps.heavensadv.values.Situation;
 
@@ -35,8 +38,11 @@ public class BibleVersesActivity extends ListActivity {
 	  	setTitle(getResources().getString(R.string.app_name) + " - " + situation.getName());
 	  	
 	  	bibleVerses = situation.getBibleVerses();
-	  	ArrayAdapter<BibleVerse> arrayAdapter = new ArrayAdapter<BibleVerse>(this, android.R.layout.simple_list_item_1, bibleVerses);
-		setListAdapter(arrayAdapter);
+	  	//ArrayAdapter<BibleVerse> arrayAdapter = new ArrayAdapter<BibleVerse>(this, android.R.layout.simple_list_item_1, bibleVerses);
+	  	
+	  	BibleVerseAdapter bibleVerseAdapter = new BibleVerseAdapter(this, bibleVerses);
+	  	
+		setListAdapter(bibleVerseAdapter);
 	  	ListView lv = getListView();
 	  	lv.setTextFilterEnabled(true);
 	  	  

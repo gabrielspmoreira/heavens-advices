@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import android.app.AlertDialog;
 import android.app.ListActivity;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.view.Gravity;
@@ -48,11 +49,16 @@ public class BibleVersesActivity extends ListActivity {
 	  	  
 	  	  lv.setOnItemClickListener(new OnItemClickListener() {
 	  	    public void onItemClick(AdapterView<?> parent, View view,
-	  	        int position, long id) {
+	  	         int position, long id) {
 	  	    	
-	  	    	BibleVerse bibleVerse = bibleVerses.get((int)id);
+	  	    	 BibleVerse bibleVerse = bibleVerses.get((int)id);
 	  	    	
-	  	    	AlertDialog alertDialog = new AlertDialog.Builder(BibleVersesActivity.this).create();
+	  	    	 Intent myIntent = new Intent(view.getContext(), VerseTextActivity.class);		  	   
+				 myIntent.putExtra("bibleverse", bibleVerse);
+				
+				 startActivity(myIntent);	  	    
+	  	    	
+	  	    	/*AlertDialog alertDialog = new AlertDialog.Builder(BibleVersesActivity.this).create();
 	  	    	alertDialog.setTitle(bibleVerse.getVerseId());
 	  	    	//alertDialog.setMessage(bibleVerse.getVerseText());
 	  	    	alertDialog.setButton("OK", new DialogInterface.OnClickListener() {
@@ -61,7 +67,7 @@ public class BibleVersesActivity extends ListActivity {
 	                    }
 	            });	  	    
 	  	    	alertDialog.setView(GetDialogScreen(bibleVerse.getVerseText())); 
-	  	    	alertDialog.show();
+	  	    	alertDialog.show();*/
 	  	    }
 	  	  });
     }

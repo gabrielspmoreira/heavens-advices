@@ -18,13 +18,11 @@
         </activity>  
         <activity
             android:name=".activities.SituationsActivity"
-            android:label="@string/situations_title"
-            android:theme="@style/SituationStyle">
+            android:label="@string/situations_title">
         </activity>
         <activity
             android:name=".activities.BibleVersesActivity"
-            android:label="@string/bibleverses_title"
-            android:theme="@style/SituationStyle" />
+            android:label="@string/bibleverses_title" />
                    
     </application>
 

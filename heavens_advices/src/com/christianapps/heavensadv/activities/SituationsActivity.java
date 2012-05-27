@@ -26,7 +26,8 @@ public class SituationsActivity extends ListActivity {
           processMenus();
           
           setContentView(R.layout.situations);
-          setListAdapter(new ArrayAdapter<Situation>(this, android.R.layout.simple_list_item_1, this.situations));
+          //setListAdapter(new ArrayAdapter<Situation>(this, android.R.layout.simple_list_item_1, this.situations));
+          setListAdapter(new ArrayAdapter<Situation>(this, R.layout.situations_row, R.id.situation_text, this.situations));
          
           	
 	  	  ListView lv = getListView();

@@ -46,7 +46,8 @@ public class BibleVerseAdapter extends BaseAdapter {
     	verseIdTextView.setText(bibleVerse.getVerseId());
 
     	TextView verseTextView = (TextView)convertView.findViewById(R.id.versetext);
-    	String shortBibleVerse = bibleVerse.getVerseText().substring(1, 80) + "...";
+    	String fullBibleVerse = bibleVerse.getVerseText();
+    	String shortBibleVerse = bibleVerse.getVerseText().substring(1, Math.min(80, fullBibleVerse.length())) + "...";
     	verseTextView.setText(shortBibleVerse);
 
     	return convertView;

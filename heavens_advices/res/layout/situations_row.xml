@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ android:orientation="vertical" 
+ android:layout_width="fill_parent"
+ android:layout_height="fill_parent"
+ android:background="@drawable/situation_item_gradient"
+ android:paddingLeft="5dp">
+  
+  <TextView android:id="@+id/situation_text"
+  android:textSize="16sp" 
+  android:textStyle="bold" 
+  android:textColor="#FFFFFF" 
+  android:layout_width="wrap_content" 
+  android:layout_height="48dp"
+  android:gravity="center_vertical|left"/>  
+
+</LinearLayout>

@@ -5,7 +5,7 @@
          android:layout_height="fill_parent"
          android:background="@drawable/skybackground2">
 
-     <ListView android:id="@android:id/list"
+     <ListView android:id="@+id/verses_list"
                android:layout_width="fill_parent"
                android:layout_height="wrap_content"
                android:layout_weight="1"
@@ -13,10 +13,4 @@
                android:cacheColorHint="@android:color/transparent"
                android:divider="@null"
 			   android:dividerHeight="0dp" />
-
-     <TextView android:id="@android:id/empty"
-               android:layout_width="fill_parent"
-               android:layout_height="wrap_content"
-               android:background="#FF0000"
-               android:text="No data"/>
  </LinearLayout>

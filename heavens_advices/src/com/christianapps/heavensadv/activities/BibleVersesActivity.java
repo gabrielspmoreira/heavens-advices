@@ -2,32 +2,34 @@ package com.christianapps.heavensadv.activities;
 
 import java.util.ArrayList;
 
-import android.app.AlertDialog;
-import android.app.ListActivity;
-import android.content.DialogInterface;
 import android.content.Intent;
-import android.graphics.Color;
 import android.os.Bundle;
-import android.view.Gravity;
-import android.view.LayoutInflater;
 import android.view.View;
-import android.view.ViewGroup;
-import android.view.ViewGroup.LayoutParams;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
-import android.widget.ArrayAdapter;
-import android.widget.LinearLayout;
 import android.widget.ListView;
-import android.widget.PopupWindow;
-import android.widget.ScrollView;
-import android.widget.TextView;
 import com.christianapps.heavensadv.*;
 
+import com.christianapps.heavensadv.actionbar.ActionBarButton;
 import com.christianapps.heavensadv.adapters.BibleVerseAdapter;
 import com.christianapps.heavensadv.values.BibleVerse;
 import com.christianapps.heavensadv.values.Situation;
 
-public class BibleVersesActivity extends ListActivity {
+public class BibleVersesActivity extends HeavensActivity {
+	
+	private ArrayList<BibleVerse> bibleVerses = new ArrayList<BibleVerse>(); 
+	
+	@Override
+	protected ActionBarButton[] getActionButtons(){
+		return new ActionBarButton[]{ActionBarButton.About};
+	}
+	
+	@Override
+	protected void OnActionBarButtonClicked(ActionBarButton actionBarButton) {
+		// TODO Auto-generated method stub
+		
+	}
+	
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -43,48 +45,24 @@ public class BibleVersesActivity extends ListActivity {
 	  	
 	  	BibleVerseAdapter bibleVerseAdapter = new BibleVerseAdapter(this, bibleVerses);
 	  	
-		setListAdapter(bibleVerseAdapter);
-	  	ListView lv = getListView();
+	  	ListView lv = (ListView) findViewById(R.id.verses_list);
+	  	lv.setAdapter(bibleVerseAdapter);
 	  	lv.setTextFilterEnabled(true);
 	  	  
 	  	  lv.setOnItemClickListener(new OnItemClickListener() {
 	  	    public void onItemClick(AdapterView<?> parent, View view,
 	  	         int position, long id) {
 	  	    	
-	  	    	 BibleVerse bibleVerse = bibleVerses.get((int)id);
+	  	    	 //BibleVerse bibleVerse = bibleVerses.get((int)id);
 	  	    	
-	  	    	 Intent myIntent = new Intent(view.getContext(), VerseTextActivity.class);		  	   
-				 myIntent.putExtra("bibleverse", bibleVerse);
+	  	    	 Intent intent = new Intent(view.getContext(), VerseTextActivity.class);		  	   
+	  	    	intent.putExtra("bibleverses", bibleVerses);
+	  	    	intent.putExtra("bibleverse_position", position);
 				
-				 startActivity(myIntent);	  	    
-	  	    	
-	  	    	/*AlertDialog alertDialog = new AlertDialog.Builder(BibleVersesActivity.this).create();
-	  	    	alertDialog.setTitle(bibleVerse.getVerseId());
-	  	    	//alertDialog.setMessage(bibleVerse.getVerseText());
-	  	    	alertDialog.setButton("OK", new DialogInterface.OnClickListener() {
-	                public void onClick(DialogInterface dialog, int which) {
-	                	return;
-	                    }
-	            });	  	    
-	  	    	alertDialog.setView(GetDialogScreen(bibleVerse.getVerseText())); 
-	  	    	alertDialog.show();*/
+				 startActivity(intent);	  	    
 	  	    }
 	  	  });
     }
     
-    private View GetDialogScreen(String strText) {
-        ScrollView scroll = new ScrollView(BibleVersesActivity.this);
-        scroll.setLayoutParams(new LayoutParams(LayoutParams.FILL_PARENT, LayoutParams.FILL_PARENT));
-        LinearLayout llay = new LinearLayout(BibleVersesActivity.this);
-        llay.setLayoutParams(new LayoutParams(LayoutParams.FILL_PARENT, LayoutParams.FILL_PARENT));
-        llay.setBackgroundColor(Color.TRANSPARENT);
-        TextView tv = new TextView(BibleVersesActivity.this);
-        tv.setText(strText);
-        tv.setTextSize(20);
-        scroll.addView(llay);
-        llay.addView(tv);
-        return scroll;
-    }
-    
-    private ArrayList<BibleVerse> bibleVerses = new ArrayList<BibleVerse>();  
+     
 }

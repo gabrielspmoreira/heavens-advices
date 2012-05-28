@@ -3,7 +3,6 @@ package com.christianapps.heavensadv.activities;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-import android.app.ListActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -13,11 +12,23 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 import com.christianapps.heavensadv.R;
+import com.christianapps.heavensadv.actionbar.ActionBarButton;
 import com.christianapps.heavensadv.values.Situation;
 
-public class SituationsActivity extends ListActivity {
+public class SituationsActivity extends HeavensActivity {
     
 	private ArrayList<Situation> situations = new ArrayList<Situation>();
+	
+	@Override
+	protected ActionBarButton[] getActionButtons(){
+		return new ActionBarButton[]{ActionBarButton.About};
+	}
+	
+	@Override
+	protected void OnActionBarButtonClicked(ActionBarButton actionBarButton) {
+		// TODO Auto-generated method stub
+		
+	}
 	
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -26,13 +37,11 @@ public class SituationsActivity extends ListActivity {
           processMenus();
           
           setContentView(R.layout.situations);
-          //setListAdapter(new ArrayAdapter<Situation>(this, android.R.layout.simple_list_item_1, this.situations));
-          setListAdapter(new ArrayAdapter<Situation>(this, R.layout.situations_row, R.id.situation_text, this.situations));
-         
-          	
-	  	  ListView lv = getListView();
-	  	  lv.setTextFilterEnabled(true);	  	  
-	  	  
+          
+          ListView lv = (ListView) findViewById(R.id.situation_list);
+  		  lv.setAdapter(new ArrayAdapter<Situation>(this, R.layout.situations_row, R.id.situation_text, this.situations));  				
+	  	  lv.setTextFilterEnabled(true);  
+
 	  	  lv.setOnItemClickListener(new OnItemClickListener() {
 	  	    public void onItemClick(AdapterView<?> parent, View view,
 	  	        int position, long id) {

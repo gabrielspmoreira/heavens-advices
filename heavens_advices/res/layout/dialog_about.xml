@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_height="wrap_content" 
+	         android:layout_width="fill_parent"
+	         android:orientation="vertical"
+	         android:id="@+id/about_view"
+	         android:padding="5dp">
+     <TextView android:id="@+id/about_appname"
+		               android:layout_width="fill_parent"
+		               android:layout_height="wrap_content"
+		               android:textColor="#FFFFFF"
+		               android:text="@string/app_name"/>
+     <TextView android:id="@+id/about_developers"
+		               android:layout_width="fill_parent"
+		               android:layout_height="wrap_content"
+		               android:textColor="#FFFFFF"
+		               android:text="@string/app_developers"
+		               android:paddingLeft="3dp"/>
+</LinearLayout>

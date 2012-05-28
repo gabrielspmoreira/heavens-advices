@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Heaven\'s Advices</string>
+    <string name="app_developers">Developers: Gabriel Moreira, Tháles Oliveira</string>    
     <string name="main_title">Heaven\'s Advices - Bringing you nearer to the celestial atmosphere!</string>
     <string name="bibleverses_title">Heaven\'s Advices - Bible Verses</string>
     <string name="situations_title">Heaven\'s Advices - If you are &#8230;</string>
-    <string name="mainmenu_situations">Today I\'m feeling...</string>
+    <string name="mainmenu_situations">Today I\'m feeling &#8230;</string>
     <string name="mainmenu_random">Today\'s Precious Promise</string>
+    <string name="about">About</string>
 </resources>

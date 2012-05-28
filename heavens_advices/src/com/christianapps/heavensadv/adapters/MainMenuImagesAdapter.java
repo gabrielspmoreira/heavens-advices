@@ -23,8 +23,8 @@ public class MainMenuImagesAdapter extends BaseAdapter {
     public MainMenuImagesAdapter(Context c) {
         mContext = c;
         menuItems = new HashMap<Integer, String>();
-    	menuItems.put(R.drawable.heavens1, mContext.getString(R.string.mainmenu_situations));
-    	menuItems.put(R.drawable.heavens2, mContext.getString(R.string.mainmenu_random));
+        menuItems.put(R.drawable.heavens2, mContext.getString(R.string.mainmenu_situations));  
+        menuItems.put(R.drawable.heavens1, mContext.getString(R.string.mainmenu_random));             	 	
     }
 
     public int getCount() {

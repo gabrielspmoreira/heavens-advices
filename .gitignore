@@ -17,5 +17,6 @@ local.properties
 
 #Eclipse Metadata
 .metadata
+.settings/
 *.settings*
 

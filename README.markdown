@@ -24,12 +24,17 @@ This is the current environment we are using to develop:
 
 *	Eclipse IDE 3.6 (Helios)
 *	Oracle Java 6 SDK
-*	Android SDK r16
+*	Android SDK r18
 *	Android Development Tools (ADT) Plugin for Eclipse.
 
-The app uses the old Android 2.1 platform, so it is compatible with almost any current device (mobile or tablet)
+The app aims the old Android 2.1 platform, so it is compatible with almost any current device (mobile or tablet)
+
+Dependencies
+-----------
+*	ActionBarSherlock - As native ActionBar is supported only from Android 3.0+, we use ActionBarSherlock API open-source project to mimic that behavior on Android 2.1+ devices. P.s. ActionBarSherlock requires including Android 4.0 library in the project, therefore Heavens Advice continue working on older devices. 
 
 Resources
 ---------
 *	[Android Developers official site](http://developer.android.com/) is a great resource
 *	[Bible Gateway](http://www.biblegateway.com/) provides bible versions in any popular language
+* 	[ActionBar Sherlock](http://actionbarsherlock.com/) is an open-source project to work with ActionBar design pattern in older devices (Android 2.1+)

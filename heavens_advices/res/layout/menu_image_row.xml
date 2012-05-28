@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_height="fill_parent" 
+	         android:layout_width="fill_parent"
+	         android:orientation="horizontal" 
+	         android:padding="5dp"
+	         android:id="@+id/menuImageView">
+	         
+		<TextView
+		    android:id="@+id/imageViewText"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+            android:textSize="24sp" 
+            android:textStyle="bold"
+            android:singleLine="false"
+		    android:gravity="center_horizontal|center_vertical" 
+		    android:textColor="@color/light_font"
+            android:shadowColor="@color/text_shadow"
+            android:shadowDx="1"
+            android:shadowDy="1"
+            android:shadowRadius="2"/>
+</LinearLayout>

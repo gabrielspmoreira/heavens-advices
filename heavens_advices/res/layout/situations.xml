@@ -3,7 +3,7 @@
          android:orientation="vertical"
          android:layout_width="fill_parent"
          android:layout_height="fill_parent"
-         android:background="@drawable/skybackground">
+         android:background="@drawable/skybackground3">
 
      <ListView android:id="@+id/situation_list"
                android:layout_width="fill_parent"
